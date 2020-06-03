@@ -47,4 +47,4 @@ Honors and Awards
   * Vice-Chancellor’s Prize for the Best Graduating Student in the Faculty of Science and Science Education for 2014/2015 Academic Session
   * Dean’s Honors Roll Award List
 
-For more, see my <a href="ajesujoba.github.io/files/ALABI_Jesujoba__CV.pdf">CV</a>.
+For more, see my <a href="../files/ALABI_Jesujoba__CV.pdf">CV</a>.
