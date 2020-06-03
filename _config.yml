@@ -83,11 +83,11 @@ author:
   name             : "Jesujoba Oluwadara Alabi"
   avatar           : "profile.png"
   bio              : "I am a masters in Computer Science student at Saarland University"
-  location         : "Location"
-  employer         :
+  location         : "Saarbrücken"
+  employer         : "German Research Center for Artificial Intelligence DFKI"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=vhBQlm8AAAAJ&hl=en"
+  email            : "alabijesujoba@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
