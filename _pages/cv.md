@@ -38,6 +38,16 @@ Skills
 * OpenNMT
 * Fairseq
 
+Honors and Awards
+======
+* Black in AI travel grant to attend the 2019 Neurips at Vancouver 
+* Undergraduate Awards at Bowen University
+  * New Horizon Laptop Prize for Best Graduating Student in the International Professional IT and E-Business Certification Program(CISCO CERT) for 2014/2015 Academic Session.
+  * Faculty Award for Best Graduating Student in the Faculty of Science and Science Education for 2014/2015 Academic Session
+  * Vice-Chancellor’s Prize for the Best Graduating Student in the Faculty of Science and Science Education for 2014/2015 Academic Session
+  * Dean’s Honors Roll Award List
+
+
 Publications
 ======
   <ul>{% for post in site.publications %}
