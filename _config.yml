@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jesujoba Alabi"
+title                    : "Jesujoba Oluwadara Alabi"
 title_separator          : "-"
-name                     : &name "Jesujoba O. Alabi"
+name                     : &name "Jesujoba Alabi"
 description              : &description "I am Jesujoba Oluwadara Alabi, a Nigerian from the Yoruba race with interest in NLP, Machine Learning and Machine Translation "
 url                      : https://ajesujoba.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ talkmap_link             : false #change to true to add link to talkmap on talks
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname            : jesujoba, alabi
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
