@@ -47,13 +47,4 @@ Honors and Awards
   * Vice-Chancellor’s Prize for the Best Graduating Student in the Faculty of Science and Science Education for 2014/2015 Academic Session
   * Dean’s Honors Roll Award List
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+For more, see my CV
