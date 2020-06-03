@@ -19,7 +19,7 @@ Work experience
 * October 2019 - till date: Research Assistant
   * Multilinguality and Language Technology, <a href = "https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology/team-mlt/">German Research Center for Artificial Intelligence</a>
   * Duties included: Develop a self supervised neural machine translation framework in Fairseq
-  * Supervisor: Dr. Cristina España i Bonet
+  * Supervisor: <a href="https://www.cs.upc.edu/~cristinae">Dr. Cristina España i Bonet</a>
 
 * January - October 2016: Graduate Assistant
   * Department of Mathematical and Physical Sciences, <a href="http://www.abuad.edu.ng">Afe Babalola University, Nigeria </a>
