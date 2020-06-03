@@ -17,12 +17,12 @@ Education
 Work experience
 ======
 * October 2019 - till date: Research Assistant
-  * Multilinguality and Language Technology, 
+  * Multilinguality and Language Technology, <a href = "https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology/team-mlt/">German Research Center for Artificial Intelligence</a>
   * Duties included: Develop a self supervised neural machine translation framework in Fairseq
   * Supervisor: Dr. Cristina España i Bonet
 
 * January - October 2016: Graduate Assistant
-  * Department of Mathematical and Physical Sciences, <a href="http://www.abuad.edu.ng">Afe Babalola University, Nigeria </a>>
+  * Department of Mathematical and Physical Sciences, <a href="http://www.abuad.edu.ng">Afe Babalola University, Nigeria </a>
   * Duties included: Academics
   * Supervisor: Dr. Seyi Adeyemo
   
@@ -42,12 +42,6 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
