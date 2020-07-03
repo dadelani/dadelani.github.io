@@ -18,7 +18,7 @@ Research interests
 
 News
 ======
-* I presented the talk titled <a href=" ajesujoba.github.io/files/ai4d_webinar_NLP.pdf">"Yorùbá and beyond: NLP from an African perspective" </a> at the first event of the free AI4D Africa Webinar Series. (02.07.2020)
+* I presented the talk titled <a href=" ajesujoba.github.io/files/ai4d_webinar_NLP.pdf">"Yorùbá and beyond: NLP from an African perspective" </a> at the first event of the free <a href="https://ai4d.ai/">AI4D</a> Africa Webinar Series. (02.07.2020)
 * I would be attending the <a href="http://lxmls.it.pt/2020">10th Lisbon Machine Learning School</a> (fully virtual on-line school due to COVID-19) July 21st to July 29th, 2020
 * Our paper <a href = "https://arxiv.org/abs/1912.02481">"Massive vs. Curated Word Embeddings for Low-Resourced Languages. The Case of Yorùbá and Twi</a> (with Kwabena Amponsah-Kaakyire, <a href="https://dadelani.github.io/">David I. Adelani</a> and <a href="https://www.cs.upc.edu/~cristinae">Cristina España-Bonet</a>) has been accepted at the 12th International Conference on Language Resources and Evaluation (LREC 2020) (11.02.2020) 
 * Attended Neurips 2019 @Vancouver, great experience, thank you <a href="https://blackinai.github.io/">Black in AI</a> and her sponsors! (December 8 - 14, 2019) 
