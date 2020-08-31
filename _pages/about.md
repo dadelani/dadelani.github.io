@@ -14,6 +14,7 @@ Research interests
 * NLP for low resource languages
 * Neural Machine Translation (NMT)
 * Information Extraction 
+* Question Answering Systems
 * Representation Learning
 
 News
