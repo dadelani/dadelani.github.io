@@ -38,6 +38,7 @@ Skills
   * Machine Translation
   * Text classification
   * Representation Learning
+  * Question Answering Systems
 * Python
 * Pytorch
 * OpenNMT
