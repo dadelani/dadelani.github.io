@@ -16,10 +16,14 @@ Education
 
 Work experience
 ======
-* October 2019 - till date: Research Assistant
+* September 2020 - till date: Research Assistant
+  * Database and Information Systems, <a href = "https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/">Max Planck Institute for Informatics</a>
+  * Supervisor: <a href="https://www.cs.upc.edu/~cristinae">Dr. Cristina España i Bonet</a>
+
+* October 2019 - July 2020: Research Assistant
   * Multilinguality and Language Technology, <a href = "https://www.dfki.de/en/web/research/research-departments/multilinguality-and-language-technology/team-mlt/">German Research Center for Artificial Intelligence</a>
   * Duties included: Develop a self supervised neural machine translation framework in Fairseq
-  * Supervisor: <a href="https://www.cs.upc.edu/~cristinae">Dr. Cristina España i Bonet</a>
+  * Supervisor: <a href="http://people.mpi-inf.mpg.de/~rsaharo/">Dr. Rishiraj Saha Roy</a>
 
 * January - October 2016: Graduate Assistant
   * Department of Mathematical and Physical Sciences, <a href="http://www.abuad.edu.ng">Afe Babalola University, Nigeria </a>
