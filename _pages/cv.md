@@ -46,6 +46,7 @@ Skills
 
 Honors and Awards
 ======
+* Saarland Scholarship for International Students (STIBET III DAAD Graduation Grant) - 2020
 * Black in AI travel grant to attend the 2019 Neurips at Vancouver 
 * Undergraduate Awards at Bowen University
   * New Horizon Laptop Prize for Best Graduating Student in the International Professional IT and E-Business Certification Program(CISCO CERT) for 2014/2015 Academic Session.
