@@ -19,6 +19,9 @@ Research interests
 
 News
 ======
+* Our submission for WMT2020 shared task <a href="">UdS-DFKI@WMT20: Unsupervised MT and Very Low Resource Supervised MT for
+German↔Upper Sorbian</a> (with <a href="">Sourav Dutta</a>, <a href="">Saptarashmi Bandyopadhyay</a>, Dana
+Ruiter, and Josef van Genabith) has been accepted at WMT 2020 (30.09.2020) 
 * Our paper <a href="">Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages</a> (with <a href="https://michael-hedderich.de/">Michael A. Hedderich</a>, <a href="https://dadelani.github.io/">David I. Adelani</a>, Dawei Zhu, Udia Markus, and Dietrich Klakow) has been accepted at EMNLP 2020 (short paper) (15.09.2020) 
 * I presented our paper <a href = "https://arxiv.org/abs/1912.02481">"Massive vs. Curated Word Embeddings for Low-Resourced Languages. The Case of Yorùbá and Twi</a> at the Data Science for Society Seminar, Univ. of Pretoria (fully virtual) 04.09.2020
 * I <a href=" ajesujoba.github.io/files/Certificate LxMLS2020.pdf">attended</a> the <a href="http://lxmls.it.pt/2020">10th Lisbon Machine Learning School</a> (fully virtual on-line school due to COVID-19) July 21st to July 29th, 2020
