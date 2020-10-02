@@ -10,6 +10,7 @@ redirect_from:
 
 * I am a Masters student in the Computer Science Department at Saarland University, currently in the thesis phase of my programme.
 * My research interests lie in the general area of natural language processing (NLP), particularly in NLP for low resource languages, Neural Machine Translation (NMT), Information Extraction, Question Answering Systems and Representation Learning.
+* I received my Bachelor’s Degree in Bowen University, Nigeria. My undergraduate research advisors are Dr. O.O. Adeosun and Dr. O.A. Ibitoye.
 
 News
 ======
