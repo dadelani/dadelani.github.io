@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-* I am a Masters student in the Computer Science Department at Saarland University, currently in the thesis phase of my programme. [Curriculum Vitae] [Google Scholar]
+* I am a Masters student in the Computer Science Department at Saarland University, currently in the thesis phase of my programme.
+* My research interests lie in the general area of natural language processing (NLP), particularly in NLP for low resource languages, Neural Machine Translation (NMT), Information Extraction, Question Answering Systems and Representation Learning.
 
 News
 ======
