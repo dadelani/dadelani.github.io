@@ -13,6 +13,6 @@ Sourav Dutta, <b>Jesujoba Alabi</b>, Saptarashmi Bandyopadhyay, Dana Ruiter, and
 Michael A. Hedderich, David I. Adelani, Dawei Zhu, <b>Jesujoba Alabi</b>, Udia Markus, and Dietrich Klakow.
 <i>Conference on Empirical Methods in Natural Language Processing</i>. <b>EMNLP 2020</b>.
 
-<b>[Massive vs. Curated Word Embeddings for Low-Resourced Languages. The Case of Yorùbá and Twi](http://)</b> <br> 
+<b>[Massive vs. Curated Word Embeddings for Low-Resourced Languages. The Case of Yorùbá and Twi](http://https://www.aclweb.org/anthology/2020.lrec-1.335.pdf)</b> <br> 
 <b>Jesujoba O. Alabi</b>, Kwabena Amponsah-Kaakyire, David I. Adelani and Cristina España-Bonet.
 <i>The 12th International Conference on Language Resources and Evaluation g</i>. <b>LREC 2020</b>.
