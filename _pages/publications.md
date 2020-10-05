@@ -18,7 +18,7 @@ Michael A. Hedderich, David I. Adelani, Dawei Zhu, <b>Jesujoba Alabi</b>, Udia M
 <i>The 12th International Conference on Language Resources and Evaluation</i>. <b>LREC 2020</b>.
 
 ---
-### Poster
+## Poster
 ---
 <b>[Investigating the quality of pre-trained word embeddings in Yorùbá, a low{-}resource Language](ajesujoba.github.io/files/Black_in_AI.pdf)</b> <br> 
 <b>Jesujoba O. Alabi</b>,  David I. Adelani <i>Black in AI Workshop(co{-}located with Neurips</i>. <b>BAI 2019</b>. 
