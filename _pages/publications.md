@@ -15,7 +15,7 @@ Michael A. Hedderich, David I. Adelani, Dawei Zhu, <b>Jesujoba Alabi</b>, Udia M
 
 <b>[Massive vs. Curated Word Embeddings for Low-Resourced Languages. The Case of Yorùbá and Twi](https://www.aclweb.org/anthology/2020.lrec-1.335.pdf)</b> <br> 
 <b>Jesujoba O. Alabi</b>, Kwabena Amponsah-Kaakyire, David I. Adelani and Cristina España-Bonet.
-<i>The 12th International Conference on Language Resources and Evaluation g</i>. <b>LREC 2020</b>.
+<i>The 12th International Conference on Language Resources and Evaluation</i>. <b>LREC 2020</b>.
 
 ---
 title: "Poster"
