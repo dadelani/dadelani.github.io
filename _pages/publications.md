@@ -9,7 +9,7 @@ author_profile: true
 Sourav Dutta, <b>Jesujoba O. Alabi</b>, Saptarashmi Bandyopadhyay, Dana Ruiter, and Josef van Genabith.
 <i>The fifth conference of Machine Translation</i>. <b>WMT 2020</b>. (to appear)
 
-<b>[Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages](http://)</b> <br> 
+<b>[Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages](https://arxiv.org/pdf/2010.03179.pdf)</b> <br> 
 Michael A. Hedderich, David I. Adelani, Dawei Zhu, <b>Jesujoba Alabi</b>, Udia Markus, and Dietrich Klakow.
 <i>Conference on Empirical Methods in Natural Language Processing</i>. <b>EMNLP 2020</b>. (to appear)
 
