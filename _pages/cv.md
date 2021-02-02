@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.Sc. in Computer Science, <a href="https://bowen.edu.ng/">Bowen University</a> Nigeria, 2015
+* M.Sc. in Computer Science, <a href="">University of Ibadan</a> Nigeria, 2021 
 * M.Sc. in Computer Science, Saarland University, 2021 (expected)
 
 Work experience
