@@ -54,6 +54,7 @@ Honors and Awards
   * New Horizon Laptop Prize for Best Graduating Student in the International Professional IT and E-Business Certification Program(CISCO CERT) for 2014/2015 Academic Session.
   * Faculty Award for Best Graduating Student in the Faculty of Science and Science Education for 2014/2015 Academic Session
   * Vice-Chancellor’s Prize for the Best Graduating Student in the Faculty of Science and Science Education for 2014/2015 Academic Session
-  * Dean’s Honors Roll Award List
+  * Rev Lestle Tuller Leadership Award (2014)
+  * Dean’s Honors Roll Award List (2012)
 
 For more, see my <a href="../files/ALABI_Jesujoba__CV.pdf">CV</a>.
