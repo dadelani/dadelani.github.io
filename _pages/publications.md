@@ -6,7 +6,7 @@ author_profile: true
 
 <br>
 <b>[MasakhaNER: Named Entity Recognition for African Languages](https://arxiv.org/ftp/arxiv/papers/2103/2103.11811.pdf)</b> <br> 
-David Ifeoluwa Adelani, Jade Abbott, Graham Neubig, ..., <b>Jesujoba O. Alabi</b>, ..., Adewale Akinfaderin, Tendai Marengereke, Salomey Osei.
+David Ifeoluwa Adelani, Jade Abbott, Graham Neubig, ..., <b>Jesujoba Alabi</b>, ..., Adewale Akinfaderin, Tendai Marengereke, Salomey Osei.
 
 <br>
 <b>[MENYO-20k: A Multi-domain English-Yorùbá Corpus for Machine Translation and Domain Adaptation](http://arxiv.org/abs/2103.08647)</b> <br> 
