@@ -6,10 +6,10 @@ author_profile: true
 
 <br>
 <b>[MasakhaNER: Named Entity Recognition for African Languages](https://arxiv.org/ftp/arxiv/papers/2103/2103.11811.pdf)</b> <br> 
-David Ifeoluwa Adelani, Jade Abbott, Graham Neubig, ..., <b>Jesujoba Alabi</b>, ..., Adewale Akinfaderin, Tendai Marengereke, Salomey Osei.
+David Ifeoluwa Adelani, Jade Abbott, Graham Neubig, ..., <b>Jesujoba Alabi</b>, ..., Adewale Akinfaderin, Tendai Marengereke, Salomey Osei. AfricaNLP Workshop at EACL 2021 
 
 <b>[MENYO-20k: A Multi-domain English-Yorùbá Corpus for Machine Translation and Domain Adaptation](http://arxiv.org/abs/2103.08647)</b> <br> 
-David I. Adelani, Dana Ruiter, <b>Jesujoba O. Alabi</b>, Damilola Adebonojo, Adesina Ayeni, Mofe Adeyemi, Ayodele Awokoya, Cristina España-Bonet.
+David I. Adelani, Dana Ruiter, <b>Jesujoba O. Alabi</b>, Damilola Adebonojo, Adesina Ayeni, Mofe Adeyemi, Ayodele Awokoya, Cristina España-Bonet. AfricaNLP Workshop at EACL 2021 
 
 <b>[UdS-DFKI@WMT20: Unsupervised MT and Very Low Resource Supervised MT for German↔Upper Sorbian](http://www.statmt.org/wmt20/pdf/2020.wmt-1.129.pdf)</b> <br> 
 Sourav Dutta, <b>Jesujoba O. Alabi</b>, Saptarashmi Bandyopadhyay, Dana Ruiter, and Josef van Genabith.
