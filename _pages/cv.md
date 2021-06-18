@@ -48,6 +48,7 @@ Skills
 
 Honors and Awards
 ======
+* 1st prize, AI4D Takwimu Lab - Machine Translation Challenge - 2021
 * Saarland Scholarship for International Students (STIBET III DAAD Graduation Grant) - 2020
 * Black in AI travel grant to attend the 2019 Neurips at Vancouver 
 * Undergraduate Awards at Bowen University
