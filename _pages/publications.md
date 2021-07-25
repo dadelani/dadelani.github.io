@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 <br>
-<b>[The Effect of Domain and Diacritics in Yorùbá-English Neural Machine Translation](https://arxiv.org/abs/2103.08647)</b> 
+<b>[The Effect of Domain and Diacritics in Yorùbá-English Neural Machine Translation](https://arxiv.org/abs/2103.08647)</b> <br> 
 David I. Adelani, Dana Ruiter, <b>Jesujoba O. Alabi</b>, Damilola Adebonojo, Adesina Ayeni, Mofe Adeyemi, Ayodele Awokoya, Cristina España-Bonet. <b> In MT Summit, 2021</b>.
 
 <b>[MasakhaNER: Named Entity Recognition for African Languages](https://arxiv.org/ftp/arxiv/papers/2103/2103.11811.pdf)</b> <br> 
