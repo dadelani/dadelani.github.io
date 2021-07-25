@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 <br>
+<b>The Effect of Domain and Diacritics in Yorùbá-English Neural Machine Translation](https://)</b> 
+David I. Adelani, Dana Ruiter, <b>Jesujoba O. Alabi</b>, Damilola Adebonojo, Adesina Ayeni, Mofe Adeyemi, Ayodele Awokoya, Cristina España-Bonet. <b> In MT Summit, 2021</b>
+
 <b>[MasakhaNER: Named Entity Recognition for African Languages](https://arxiv.org/ftp/arxiv/papers/2103/2103.11811.pdf)</b> <br> 
 David Ifeoluwa Adelani, Jade Abbott, Graham Neubig, ..., <b>Jesujoba Alabi</b>, ..., Adewale Akinfaderin, Tendai Marengereke, Salomey Osei. <b>AfricaNLP Workshop at EACL 2021</b>. 
 
