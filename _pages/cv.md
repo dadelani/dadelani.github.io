@@ -17,7 +17,12 @@ Education
 
 Work experience
 ======
-* September 2020 - till date: Research Assistant
+* August 2021 - till date: Research Intern
+  * Database and Information Systems, <a href = "https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/">Max Planck Institute for Informatics</a>
+  * Supervisor: <a href="http://people.mpi-inf.mpg.de/~rsaharo/">Dr. Rishiraj Saha Roy</a>
+  * Topic: Unified Question Answering over heterogeneous sources
+  
+* September 2020 - July 2021: Research Assistant
   * Database and Information Systems, <a href = "https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/">Max Planck Institute for Informatics</a>
   * Supervisor: <a href="http://people.mpi-inf.mpg.de/~rsaharo/">Dr. Rishiraj Saha Roy</a>
   * Topic: Unified Question Answering over heterogeneous sources
