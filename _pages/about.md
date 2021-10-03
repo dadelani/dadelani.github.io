@@ -13,7 +13,7 @@ redirect_from:
 
 News
 ======
-* Our submission for WMT2020 shared task UdS-DFKI@WMT20: Unsupervised MT and Very Low Resource Supervised MT for German↔Upper Sorbian (with Svetlana Tchistiakova, Koel Dutta Chowdhury, Sourav Dutta, Dana Ruiter) has been accepted at WMT 2021 (07.09.2021)
+* Our submission for WMT2021 shared task EdinSaar@WMT21: North-Germanic Low-Resource Multilingual NMT (with Svetlana Tchistiakova, Koel Dutta Chowdhury, Sourav Dutta, Dana Ruiter) has been accepted at WMT 2021 (07.09.2021)
 * I submitted my masters thesis titled Phrase-enriched self supervised neural machine translation. (15.07.2021)
 * Our paper The Effect of Domain and Diacritics in Yorùbá-English Neural Machine Translation (with David Adelani, Dana Ruiter, Damilola Adebonojo, Adesina Ayeni, Mofe Adeyemi, Ayodele Awokoya, and Cristina España-Bonet) has been accepted at MT Summit (Research Track) (15.06.2021) 
 * Our paper <a href="https://arxiv.org/abs/2103.11811">MasakhaNER: Named Entity Recognition for African Languages</a> (with David Adelani, Jade Abbott, Graham Neubig, Daniel D'souza, Julia Kreutzer, Constantine Lignos, Chester Palen-Michel, Happy Buzaaba, Shruti Rijhwani, Sebastian Ruder, Stephen Mayhew, Israel Abebe Azime, Shamsuddeen Muhammad, Chris Chinenye Emezue, Joyce Nakatumba-Nabende, Perez Ogayo, Anuoluwapo Aremu, Catherine Gitau, Derguene Mbaye, Seid Muhie Yimam, and 40 more authors) has been accepted at the Transactions of the Association for Computational Linguistics (TACL) 2021 (14.06.2021) 
