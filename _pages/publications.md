@@ -5,6 +5,9 @@ author_profile: true
 ---
 
 <br>
+<b>[EdinSaar@WMT21: North-Germanic Low-Resource Multilingual NMT](https://arxiv.org/abs/2103.08647)</b> <br> 
+Svetlana Tchistiakova, <b>Jesujoba Alabi</b>, Koel Dutta Chowdhury, Sourav Dutta, Dana Ruiter. <b> In MT Summit, 2021</b>.
+
 <b>[The Effect of Domain and Diacritics in Yorùbá-English Neural Machine Translation](https://arxiv.org/abs/2103.08647)</b> <br> 
 David I. Adelani, Dana Ruiter, <b>Jesujoba O. Alabi</b>, Damilola Adebonojo, Adesina Ayeni, Mofe Adeyemi, Ayodele Awokoya, Cristina España-Bonet. <b> In MT Summit, 2021</b>.
 
