@@ -13,7 +13,7 @@ redirect_from:
 
 News
 ======
-* I resumed as a student research engineer at the ALMAnaCH project-team, INRIA Paris (01.02.2022)
+* I resumed as a research engineer at the ALMAnaCH project-team, INRIA Paris (01.02.2022)
 * I completed my internsip at the Databases and Information Systems Group, MPI-INF (31.01.2022)
 * Our submission for WMT2021 shared task EdinSaar@WMT21: North-Germanic Low-Resource Multilingual NMT (with Svetlana Tchistiakova, Koel Dutta Chowdhury, Sourav Dutta, Dana Ruiter) has been accepted at WMT 2021 (07.09.2021)
 * I submitted my masters thesis titled Phrase-enriched self supervised neural machine translation. (15.07.2021)
