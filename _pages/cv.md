@@ -17,7 +17,12 @@ Education
 
 Work experience
 ======
-* August 2021 - till date: Research Intern
+* February 2022 - till date: Research Engineer
+  * ALMAnaCH project-team, <a href = "https://files.inria.fr/almanach/index-en.html">INRIA Paris</a>
+  * Supervisor: <a href="https://rbawden.github.io/">Dr. Rachel Bawden</a>
+  * Topic: Domain Adaptation in NMT
+  * 
+* August 2021 - January 2022: Research Intern
   * Database and Information Systems, <a href = "https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/">Max Planck Institute for Informatics</a>
   * Supervisor: <a href="http://people.mpi-inf.mpg.de/~rsaharo/">Dr. Rishiraj Saha Roy</a>
   * Topic: Unified Question Answering over heterogeneous sources
