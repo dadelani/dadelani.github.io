@@ -17,7 +17,12 @@ Education
 
 Work experience
 ======
-* February 2022 - till date: Research Engineer
+* June 2022 - till date: Ph.D. student/Researcher
+  *  Spoken Language Systems (LSV) research group, <a href = "https://www.lsv.uni-saarland.de/">Saarland University</a>
+  * Supervisor: <a href="https://www.lsv.uni-saarland.de/people/dietrich-klakow/">Prof. Dr. Dietrich Klakow</a>
+  * Topic: Data Augmentation in NLP
+  * 
+* February 2022 - June 2022: Research Engineer
   * ALMAnaCH project-team, <a href = "https://files.inria.fr/almanach/index-en.html">INRIA Paris</a>
   * Supervisor: <a href="https://rbawden.github.io/">Dr. Rachel Bawden</a>
   * Topic: Domain Adaptation in NMT
