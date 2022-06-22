@@ -21,12 +21,12 @@ Work experience
   *  Spoken Language Systems (LSV) research group, <a href = "https://www.lsv.uni-saarland.de/">Saarland University</a>
   * Supervisor: <a href="https://www.lsv.uni-saarland.de/people/dietrich-klakow/">Prof. Dr. Dietrich Klakow</a>
   * Topic: Data Augmentation in NLP
-  * 
+  
 * February 2022 - June 2022: Research Engineer
   * ALMAnaCH project-team, <a href = "https://files.inria.fr/almanach/index-en.html">INRIA Paris</a>
   * Supervisor: <a href="https://rbawden.github.io/">Dr. Rachel Bawden</a>
   * Topic: Domain Adaptation in NMT
-  * 
+  
 * August 2021 - January 2022: Research Intern
   * Database and Information Systems, <a href = "https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/">Max Planck Institute for Informatics</a>
   * Supervisor: <a href="http://people.mpi-inf.mpg.de/~rsaharo/">Dr. Rishiraj Saha Roy</a>
