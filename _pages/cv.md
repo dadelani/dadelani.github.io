@@ -73,4 +73,4 @@ Honors and Awards
   * Rev. Leslie Tuller Memorial Scholarship (2014)
   * Dean’s Honors Roll Award List (2012)
 
-For more, see my <a href="../files/ALABI_Jesujoba__CV.pdf">CV</a>.
+For more, see my <a href="../files/Jesujoba_CV.pdf">CV</a>.
