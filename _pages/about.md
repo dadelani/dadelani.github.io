@@ -13,8 +13,13 @@ redirect_from:
 
 News
 ======
+
+* Our paper Adapting Pre-trained Language Models to African Languages via Multilingual Adaptive Fine-Tuning (with David Adelani, Marius Mosbach and Dietrich Klakow) has been accepted at COLING 2022 (16.08.2022)
+* Our paper Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning (with Ernie Chang, David Adelani, and Vera Demberg) has been accepted at COLING 2022 (16.08.2022)
 * I resumed as a Ph.D. student and researcher at the Spoken Language Systems (LSV) group, Saarland University (20.06.2022)
+* Our paper  BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus (with Josh Meyer, David Adelani, Edresson Casanova, Alp Öktem, Daniel Whitenack Julian Weber, Salomon Kabongo, Elizabeth Salesky, Iroro Orife, Colin Leong, Perez Ogayo, Chris Emezue, Jonathan Mukiibi, Salomey Osei, Apelete Agbolo, Victor Akinode, Bernard Opoku, Samuel Olanrewaju, and Shamsuddeen Muhammad) has been accepted at Interspeech 2022 (15.06.2022)
 * I left my position as a research engineer at the ALMAnaCH project-team, INRIA Paris (14.06.2022)
+* Our paper " A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation (with David Adelani, Angela Fan, Julia Kreutzer, Xiaoyu Shen, Machel Reid, Dana Ruiter, Dietrich Klakow, Peter Nabende, Ernie Chang, and others) has been accepted at NAACL-HLT 2022 (21.04.2022)
 * I resumed as a research engineer at the ALMAnaCH project-team, INRIA Paris (01.02.2022)
 * I completed my internsip at the Databases and Information Systems Group, MPI-INF (31.01.2022)
 * Our submission for WMT2021 shared task EdinSaar@WMT21: North-Germanic Low-Resource Multilingual NMT (with Svetlana Tchistiakova, Koel Dutta Chowdhury, Sourav Dutta, Dana Ruiter) has been accepted at WMT 2021 (07.09.2021)
