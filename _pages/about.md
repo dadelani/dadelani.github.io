@@ -14,6 +14,7 @@ redirect_from:
 News
 ======
 
+* Our paper <a href="https://arxiv.org/pdf/2204.06487.pdf">Adapting Pre-trained Language Models to African Languages via Multilingual Adaptive Fine-Tuning</a> the best paper award in the Grand Challenge KISTI category at COLING 2022 (14.10.2022) 
 * Our paper <a href="https://arxiv.org/pdf/2204.06487.pdf">Adapting Pre-trained Language Models to African Languages via Multilingual Adaptive Fine-Tuning</a> (with David Adelani, Marius Mosbach and Dietrich Klakow) has been accepted at COLING 2022 (16.08.2022)
 * Our paper Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning (with Ernie Chang, David Adelani, and Vera Demberg) has been accepted at COLING 2022 (16.08.2022)
 * I resumed as a Ph.D. student and researcher at the Spoken Language Systems (LSV) group, Saarland University (20.06.2022)
