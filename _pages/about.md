@@ -14,7 +14,7 @@ redirect_from:
 News
 ======
 
-* Our paper <a href="https://aclanthology.org/2022.coling-1.382.pdf">Adapting Pre-trained Language Models to African Languages via Multilingual Adaptive Fine-Tuning</a> the best paper award in the Grand Challenge KISTI category at COLING 2022 (14.10.2022) 
+* Our paper <a href="https://aclanthology.org/2022.coling-1.382.pdf">Adapting Pre-trained Language Models to African Languages via Multilingual Adaptive Fine-Tuning</a> won the best paper award in the Grand Challenge KISTI category at COLING 2022 (14.10.2022) 
 * Our system description paper <a href="">Inria-ALMAnaCH at WMT 2022: Does Transcription Help Cross-Script Machine Translation?</a> (with Lydia Nishimwe, Benjamin Muller, Camille Rey, Benoît Sagot, and Rachel Bawden) has been accepted at WMT 2022 (11.10.2022)
 * Our system description paper <a href="https://arxiv.org/pdf/2210.10692.pdf">Separating Grains from the Chaff: Using Data Filtering to Improve Multilingual Translation for Low-Resourced African Languages</a> (with Idris Abdulmumin, Michael Beukman, Chris Emezue, and 7 others) has been accepted at WMT 2022 (11.10.2022)
 * Our paper <a href="https://aclanthology.org/2022.coling-1.382.pdf">Adapting Pre-trained Language Models to African Languages via Multilingual Adaptive Fine-Tuning</a> (with David Adelani, Marius Mosbach and Dietrich Klakow) has been accepted at COLING 2022 (16.08.2022)
