@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+* I am a PhD student at <a href="https://www.lsv.uni-saarland.de/">Spoken Language Systems (LSV)</a> group and member of the <a href="https://www.graduateschool-computerscience.de/">Saarbrücken Graduate School of Computer Science</a> at the  <a href="https://saarland-informatics-campus.de/en/">Saarland Informatics Campus</a> working on natural language processing. I advised by Prof. Dr. Dietrich Klakow. 
 * I have obtained my MSc degree in Computer Science from Saarland University. My thesis focuses on enriching self supervised neural machine translation using phrases.
 * My research interests lie in the general area of natural language processing (NLP), particularly in NLP for low resource languages, Neural Machine Translation (NMT), Information Extraction, Question Answering Systems and Representation Learning.
 * I received my Bachelor’s Degree in Bowen University, Nigeria. My undergraduate research advisors are Dr. O.O. Adeosun and Dr. O.A. Ibitoye.
