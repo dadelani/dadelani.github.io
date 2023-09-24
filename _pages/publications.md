@@ -11,7 +11,7 @@ author_profile: true
 Yihong Chen, Kelly Marchisio, Roberta Raileanu, <b>David Ifeoluwa Adelani</b>, Pontus Stenetorp, Sebastian Riedel, and Mikel Artetxe <em> In NeurIPS, 2023</em>.
 
 <b>[MasakhaNEWS: News Topic Classification for African languages](https://arxiv.org/abs/2304.09972)</b> <br> 
-<b>David Ifeoluwa Adelani</b>, Marek Masiak, Israel Abebe Azime, Jesujoba O. Alabi, Atnafu Lambebo Tonja, Christine Mwase, Odunayo Ogundepo, Bonaventure F. P. Dossou, Akintunde Oladipo, ..., and Pontus Stenetorp <em> In IJCNLP-AACL, 2023</em>.
+<b>David Ifeoluwa Adelani</b>, Marek Masiak, Israel Abebe Azime, Jesujoba O. Alabi, Atnafu Lambebo Tonja, Christine Mwase, Odunayo Ogundepo, Bonaventure F. P. Dossou, Akintunde Oladipo, ..., and Pontus Stenetorp <em> In IJCNLP-AACL, 2023 & AfricaNLP Workshop 2023</em>.
 
 <b>[MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African Languages](https://arxiv.org/abs/2305.13989)</b> <br> 
 Cheikh M. Bamba Dione, <b>David Ifeoluwa Adelani</b>, Peter Nabende, Jesujoba Alabi, Thapelo Sindane, ..., and Dietrich Klakow <em> In ACL, 2023</em>.
