@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "David <a target="_blank" href="http://yorubaname.com/entries/Ifeoluwa"> Ifeoluwa </a>
-		  <a target="_blank" href="http://yorubaname.com/entries/Adelani"> Adelani </a>, PhD"
+title                    : "David Ifeoluwa Adelani"
 title_separator          : "-"
-name                     : &name "David Ifeoluwa Adelani"
+name                     : &name "David <a target="_blank" href="http://yorubaname.com/entries/Ifeoluwa"> Ifeoluwa </a>
+		  <a target="_blank" href="http://yorubaname.com/entries/Adelani"> Adelani </a>, PhD"
 description              : &description "A research fellow or DeepMind academic fellow at University College London"
 url                      : https://https://dadelani.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
