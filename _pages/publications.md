@@ -57,31 +57,66 @@ Miaoran Zhang, Marius Mosbach, <b>David Ifeoluwa Adelani</b>, Michael A. Hedderi
 
 <b>[NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis
 ](https://arxiv.org/abs/2201.08277)</b> <br> 
-Shamsuddeen Hassan Muhammad, <b>David Ifeoluwa Adelani</b>, Sebastian Ruder, Ibrahim Said Ahmad, Idris Abdulmumin ..., Pavel Brazdil <em>. In LREC, 2022</em>. 
+Shamsuddeen Hassan Muhammad, <b>David Ifeoluwa Adelani</b>, Sebastian Ruder, Ibrahim Said Ahmad, Idris Abdulmumin ..., Pavel Brazdil<em>. In LREC, 2022</em>. 
 
 <b>[Pre-Trained Multilingual Sequence-to-Sequence Models: A Hope for Low-Resource Language Translation?
 ](https://arxiv.org/abs/2203.08850)</b> <br> 
-En-Shiun Annie Lee, Sarubi Thillainathan, Shravan Nayak, Surangika Ranathunga, <b>David Ifeoluwa Adelani</b>, Ruisi Su, and Arya D. McCarthy <em>. In ACL, 2022 (Findings)</em>. 
+En-Shiun Annie Lee, Sarubi Thillainathan, Shravan Nayak, Surangika Ranathunga, <b>David Ifeoluwa Adelani</b>, Ruisi Su, and Arya D. McCarthy<em>. In ACL, 2022 (Findings)</em>. 
 
 <b>[Is BERT Robust to Label Noise? A Study on Learning with Noisy Labels in Text Classification
 ](https://arxiv.org/abs/2204.09371)</b> <br> 
-Dawei Zhu, Michael A. Hedderich, Fangzhou Zhai, <b>David Ifeoluwa Adelani</b>, and Dietrich Klakow <em>. In Insights from Negative Results Workshop at ACL, 2022</em>. 
+Dawei Zhu, Michael A. Hedderich, Fangzhou Zhai, <b>David Ifeoluwa Adelani</b>, and Dietrich Klakow<em>. In Insights from Negative Results Workshop at ACL, 2022</em>. 
 
 
 
 2021
 ------
 <b>[Preventing Author Profiling through Zero-Shot Multilingual Back-Translation](https://arxiv.org/abs/2109.09133)</b> <br> 
-<b>David Ifeoluwa Adelani</b>, Miaoran Zhang, Xiaoyu Shen, Ali Davody, Thomas Kleinbauer, and Dietrich Klakow <em>. In EMNLP, 2021</em>. 
+<b>David Ifeoluwa Adelani</b>, Miaoran Zhang, Xiaoyu Shen, Ali Davody, Thomas Kleinbauer, and Dietrich Klakow<em>. In EMNLP, 2021</em>. 
 
 <b>[MasakhaNER: Named Entity Recognition for African Languages](https://arxiv.org/abs/2103.11811)</b> <br> 
-<b>David Ifeoluwa Adelani</b>, Jade Abbott, Graham Neubig, Daniel D'souza, Julia Kreutzer, Constantine Lignos, Chester Palen-Michel, Happy Buzaaba, Shruti Rijhwani, Sebastian Ruder, Stephen Mayhew, et al. <em>. In TACL, 2021</em>. 
+<b>David Ifeoluwa Adelani</b>, Jade Abbott, Graham Neubig, Daniel D'souza, Julia Kreutzer, Constantine Lignos, Chester Palen-Michel, Happy Buzaaba, Shruti Rijhwani, Sebastian Ruder, Stephen Mayhew, et al<em>. In TACL, 2021</em>. 
 
 <b>[The Effect of Domain and Diacritics in Yorùbá-English Neural Machine Translation](https://arxiv.org/abs/2103.08647)</b> <br> 
-<b>David Ifeoluwa Adelani</b>,  Dana Ruiter, Jesujoba O. Alabi, Damilola Adebonojo, Adesina Ayeni, Mofe Adeyemi, Ayodele Awokoya, and Cristina España-Bonet <em>. In MT-Summit, 2021 </em>. 
+<b>David Ifeoluwa Adelani</b>,  Dana Ruiter, Jesujoba O. Alabi, Damilola Adebonojo, Adesina Ayeni, Mofe Adeyemi, Ayodele Awokoya, and Cristina España-Bonet<em>. In MT-Summit, 2021</em>. 
 
 2020
 ------
+<b>[Estimating community feedback effect on topic choice in social media with predictive modeling](https://arxiv.org/abs/2103.04818)</b> <br> 
+<b>David Ifeoluwa Adelani</b>,  Ryota Kobayashi, Ingmar Weber, and Przemyslaw A. Grabowicz<em>. EPJ Data science, 2020</em>. 
 
-Before 2020
+<b>[Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages](https://arxiv.org/abs/2010.03179)</b> <br> 
+Michael A. Hedderich, <b>David Ifeoluwa Adelani</b>,  Dawei Zhu, Jesujoba Alabi, Udia Markus, and Dietrich Klakow<em>. In MT-Summit, 2020 </em>. 
+
+<b>[Privacy Guarantees for De-identifying Text Transformations](https://arxiv.org/abs/2008.03101)</b> <br> 
+<b>David Ifeoluwa Adelani</b>, Ali Davody, Thomas Kleinbauer, and Dietrich Klakow<em>. In Interspeech, 2020 </em>. 
+
+<b>[Massive vs. Curated Word Embeddings for Low-Resourced Languages. The Case of Yorùbá and Twi](https://arxiv.org/abs/1912.02481)</b> <br> 
+Jesujoba O. Alabi, Kwabena Amponsah-Kaakyire, <b>David Ifeoluwa Adelani</b>,  and Cristina España-Bonet <em>. In MT-Summit, 2020 </em>. 
+
+<b>[Distant Supervision and Noisy Label Learning for Low Resource Named Entity Recognition: A Study on Hausa and Yorùbá](https://arxiv.org/abs/2003.08370)</b> <br> 
+<b>David Ifeoluwa Adelani</b>,  Michael A. Hedderich, Dawei Zhu, Esther van den Berg, and Dietrich Klakow<em>. In PML4DC and AfricaNLP Workshop at ICLR 2020</em>. 
+
+<b>[Improving Yorùbá Diacritic Restoration](https://arxiv.org/abs/2003.10564)</b> <br> 
+Iroro Orife, <b>David Ifeoluwa Adelani</b>, Timi Fasubaa, Victor Williamson, Wuraola Fisayo Oyewusi, Olamilekan Wahab, and Kola Tubosun<em>. In  AfricaNLP Workshop at ICLR 2020</em>. 
+
+<b>[Investigating the Impact of Pre-trained Word Embeddings on Memorization in Neural Networks](https://inria.hal.science/hal-02880590/document)</b> <br> 
+Aleena Thomas, <b>David Ifeoluwa Adelani</b>, Ali Davody, Aditya Mogadala, and Dietrich Klakow <em>. In TSD, 2020 </em>. 
+
+2019
 ------
+
+<b>[Generating Sentiment-Preserving Fake Online Reviews Using Neural Language Models and Their Human- and Machine-based Detection](https://arxiv.org/abs/1907.09177)</b> <br> 
+<b>David Ifeoluwa Adelani</b>, Haotian Mai, Fuming Fang, Huy H. Nguyen, Junichi Yamagishi, and Isao Echizen<em>. In AINA, 2019 </em>. 
+
+<b>[Demographic Inference and Representative Population Estimates from Multilingual Social Media Data](https://arxiv.org/abs/1905.05961)</b> <br> 
+Zijian Wang, Scott A. Hale, <b>David Ifeoluwa Adelani</b>,  Przemyslaw A. Grabowicz, Timo Hartmann, Fabian Flöck, and David Jurgens <em>. In Web Conference, 2019 </em>. 
+
+Before 2019
+------
+
+<b>[Enhancing the reusability and interoperability of artificial neural networks with DEVS modeling and simulation](https://www.worldscientific.com/doi/abs/10.1142/S1793962316500057)</b> <br> 
+<b>David Ifeoluwa Adelani</b>, and Mamadou Kaba Traoré<em>. In IJMSSC, 2019 </em>. 
+
+<b>[A Secure e-Voting Architecture](https://ieeexplore.ieee.org/abstract/document/5945258)</b> <br> 
+A.S. Sodiya, S.A. Onashoga and <b>D.I. Adelani</b> <em>. In ITNG, 2011 </em>. 
