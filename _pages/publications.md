@@ -4,6 +4,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+2023
+------
+
 <b>[Improving Language Plasticity via Pretraining with Active Forgetting](https://arxiv.org/abs/2307.01163)</b> <br> 
 Yihong Chen, Kelly Marchisio, Roberta Raileanu, <b>David Ifeoluwa Adelani</b>, Pontus Stenetorp, Sebastian Riedel, and Mikel Artetxe <em> In NeurIPS, 2023</em>.
 
@@ -22,4 +25,16 @@ Zheng-Xin Yong, Hailey Schoelkopf, Niklas Muennighoff, Alham Fikri Aji, <b>David
 <b>[Integrating Yorùbá cultural greetings into machine translation](https://arxiv.org/abs/2303.17972)</b> <br> 
 Idris Akinade, Jesujoba Alabi, <b>David Ifeoluwa Adelani</b>, Clement Odoje, and Dietrich Klakow <em> In C3NLP Workshop at EACL, 2023</em>. 
 
+2022
+------
 
+
+2021
+------
+
+
+2020
+------
+
+Before 2020
+------
