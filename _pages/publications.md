@@ -27,7 +27,23 @@ Idris Akinade, Jesujoba Alabi, <b>David Ifeoluwa Adelani</b>, Clement Odoje, and
 
 2022
 ------
+<b>[The BigScience ROOTS Corpus: A 1.6TB Composite Multilingual Dataset](https://arxiv.org/abs/2303.03915)</b> <br> 
+Hugo Laurençon, Lucile Saulnier, Thomas Wang, Christopher Akiki,..., <b>David Ifeoluwa Adelani</b>, ..., and Yacine Jernite <em> In NeurIPS, 2022 (Datasets and Benchmarks Track) </em>. 
 
+<b>[Findings of the WMT’22 Shared Task on Large-Scale Machine Translation Evaluation for African Languages](https://aclanthology.org/2022.wmt-1.72/)</b> <br> 
+<b>David Ifeoluwa Adelani</b>, Md Mahfuz Ibn Alam, Antonios Anastasopoulos, Akshita Bhagia, Marta R Costa-jussà, ..., Guillaume Wenzek <em> In WMT 2022 </em>. 
+
+<b>[MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition](https://arxiv.org/abs/2210.12391)</b> <br> 
+<b>David Ifeoluwa Adelani</b>, Graham Neubig, Sebastian Ruder, Shruti Rijhwani, Michael Beukman, Chester Palen-Michel, Constantine Lignos, Jesujoba O. Alabi, Shamsuddeen H. Muhammad, Peter Nabende, ..., Dietrich Klakow <em> In EMNLP 2022 </em>. 
+
+<b>[Ẹ KU [MASK]: Integrating Yorùbá cultural greetings into machine translation](https://arxiv.org/abs/2303.17972)</b> <br> 
+Idris Akinade, Jesujoba Alabi, <b>David Ifeoluwa Adelani</b>, Clement Odoje, and Dietrich Klakow <em> In C3NLP Workshop at EACL, 2023 & AfricaNLP Workshop 2023 </em>. 
+
+<b>[Ẹ KU [MASK]: Integrating Yorùbá cultural greetings into machine translation](https://arxiv.org/abs/2303.17972)</b> <br> 
+Idris Akinade, Jesujoba Alabi, <b>David Ifeoluwa Adelani</b>, Clement Odoje, and Dietrich Klakow <em> In C3NLP Workshop at EACL, 2023 & AfricaNLP Workshop 2023 </em>. 
+
+<b>[Ẹ KU [MASK]: Integrating Yorùbá cultural greetings into machine translation](https://arxiv.org/abs/2303.17972)</b> <br> 
+Idris Akinade, Jesujoba Alabi, <b>David Ifeoluwa Adelani</b>, Clement Odoje, and Dietrich Klakow <em> In C3NLP Workshop at EACL, 2023 & AfricaNLP Workshop 2023 </em>. 
 
 2021
 ------
