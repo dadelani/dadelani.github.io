@@ -36,14 +36,26 @@ Hugo Laurençon, Lucile Saulnier, Thomas Wang, Christopher Akiki,..., <b>David I
 <b>[MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition](https://arxiv.org/abs/2210.12391)</b> <br> 
 <b>David Ifeoluwa Adelani</b>, Graham Neubig, Sebastian Ruder, Shruti Rijhwani, Michael Beukman, Chester Palen-Michel, Constantine Lignos, Jesujoba O. Alabi, Shamsuddeen H. Muhammad, Peter Nabende, ..., Dietrich Klakow <em> In EMNLP 2022 </em>. 
 
-<b>[Ẹ KU [MASK]: Integrating Yorùbá cultural greetings into machine translation](https://arxiv.org/abs/2303.17972)</b> <br> 
-Idris Akinade, Jesujoba Alabi, <b>David Ifeoluwa Adelani</b>, Clement Odoje, and Dietrich Klakow <em> In C3NLP Workshop at EACL, 2023 & AfricaNLP Workshop 2023 </em>. 
+<b>[Adapting pre-trained language models to African languages via multilingual adaptive fine-tuning](https://arxiv.org/abs/2204.06487)</b> <br> 
+Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, Marius Mosbach, and Dietrich Klakow <em> In COLING, 2022 </em>. 
 
-<b>[Ẹ KU [MASK]: Integrating Yorùbá cultural greetings into machine translation](https://arxiv.org/abs/2303.17972)</b> <br> 
-Idris Akinade, Jesujoba Alabi, <b>David Ifeoluwa Adelani</b>, Clement Odoje, and Dietrich Klakow <em> In C3NLP Workshop at EACL, 2023 & AfricaNLP Workshop 2023 </em>. 
+<b>[Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning]([https://arxiv.org/abs/2303.17972](https://aclanthology.org/2022.coling-1.377/))</b> <br> 
+Ernie Chang, Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, and Vera Demberg <em> In COLING, 2022 </em>. 
 
-<b>[Ẹ KU [MASK]: Integrating Yorùbá cultural greetings into machine translation](https://arxiv.org/abs/2303.17972)</b> <br> 
-Idris Akinade, Jesujoba Alabi, <b>David Ifeoluwa Adelani</b>, Clement Odoje, and Dietrich Klakow <em> In C3NLP Workshop at EACL, 2023 & AfricaNLP Workshop 2023 </em>. 
+<b>[Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning]([https://arxiv.org/abs/2303.17972](https://aclanthology.org/2022.coling-1.377/))</b> <br> 
+Ernie Chang, Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, and Vera Demberg <em> In COLING, 2022 </em>. 
+
+<b>[Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning]([https://arxiv.org/abs/2303.17972](https://aclanthology.org/2022.coling-1.377/))</b> <br> 
+Ernie Chang, Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, and Vera Demberg <em> In COLING, 2022 </em>. 
+
+<b>[Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning]([https://arxiv.org/abs/2303.17972](https://aclanthology.org/2022.coling-1.377/))</b> <br> 
+Ernie Chang, Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, and Vera Demberg <em> In COLING, 2022 </em>. 
+
+<b>[Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning]([https://arxiv.org/abs/2303.17972](https://aclanthology.org/2022.coling-1.377/))</b> <br> 
+Ernie Chang, Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, and Vera Demberg <em> In COLING, 2022 </em>. 
+
+<b>[Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning]([https://arxiv.org/abs/2303.17972](https://aclanthology.org/2022.coling-1.377/))</b> <br> 
+Ernie Chang, Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, and Vera Demberg <em> In COLING, 2022 </em>. 
 
 2021
 ------
