@@ -14,7 +14,11 @@ redirect_from:
 
 News
 ======
-
+* 1 paper accepted at NeurIPS 2023
+* 1 paper accepted at AACL 2023
+* 3 papers accepted at ACL 2023
+* 1 paper accepted at C3NLP Workshop at EACL 2023
+* 3 papers accepted at AfricaNLP Worshop 2023
 
 
 For more info
