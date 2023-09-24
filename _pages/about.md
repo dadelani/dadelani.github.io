@@ -14,11 +14,11 @@ redirect_from:
 
 News
 ======
-* 1 paper accepted at NeurIPS 2023
-* 1 paper accepted at AACL 2023
-* 3 papers accepted at ACL 2023
-* 1 paper accepted at C3NLP Workshop at EACL 2023
-* 3 papers accepted at AfricaNLP Worshop 2023
+* 1 paper accepted at NeurIPS 2023: [Improving Language Plasticity via Pretraining with Active Forgetting](https://arxiv.org/abs/2307.01163)
+* 1 paper accepted at AACL 2023: [MasakhaNEWS](https://arxiv.org/abs/2304.09972)
+* 3 papers accepted at ACL 2023: [MasakhaPOS](https://arxiv.org/abs/2305.13989), [NollySenti](https://arxiv.org/abs/2305.10971), [BLOOM+1](https://arxiv.org/abs/2212.09535)
+* 1 paper accepted at C3NLP Workshop at EACL 2023: [Ẹ KU [MASK]](https://arxiv.org/abs/2303.17972)
+* 3 papers accepted at AfricaNLP Worshop 2023: [Ẹ KU [MASK]](https://arxiv.org/abs/2303.17972), [MasakhaNEWS](https://arxiv.org/abs/2304.09972), [AfriSenti](https://arxiv.org/abs/2302.08956), and [MphayaNER](https://arxiv.org/abs/2304.03952)
 
 
 Favourite Quote
