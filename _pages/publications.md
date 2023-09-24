@@ -19,7 +19,7 @@ Iyanuoluwa Shode, <b>David Ifeoluwa Adelani</b>, Jing Peng, and Anna Feldman <em
 <b>[BLOOM+1: Adding Language Support to BLOOM for Zero-Shot Prompting](https://arxiv.org/abs/2212.09535)</b> <br> 
 Zheng-Xin Yong, Hailey Schoelkopf, Niklas Muennighoff, Alham Fikri Aji, <b>David Ifeoluwa Adelani</b>, ..., and Vassilina Nikoulina <em> In ACL, 2023</em>.
 
-<b>[ε KÚ <MASK>: Integrating Yorùbá cultural greetings into machine translation](https://arxiv.org/abs/2303.17972)</b> <br> 
+<b>[Ẹ KÚ <MASK>: Integrating Yorùbá cultural greetings into machine translation](https://arxiv.org/abs/2303.17972)</b> <br> 
 Idris Akinade, Jesujoba Alabi, <b>David Ifeoluwa Adelani</b>, Clement Odoje, and Dietrich Klakow <em> In ACL, 2023</em>. 
 
 
