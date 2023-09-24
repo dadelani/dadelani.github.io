@@ -85,10 +85,10 @@ author:
   bio              : "A DeepMind Research Fellow at University College London"
   location         : "London, United Kingdom"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=david+adelani"
   googlescholar    : "https://scholar.google.ca/citations?user=W9sTkS0AAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/David-Adelani"
+  researchgate     : "https://www.researchgate.net/profile/David-Adelani"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "david-ifeoluwa-adelani-7557b337/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-0193-2083"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
