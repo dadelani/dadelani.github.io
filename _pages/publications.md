@@ -1,16 +1,8 @@
 ---
-layout: archive
-title: "Publications"
+title: "Publications [(Google Scholar Profile)](https://scholar.google.ca/citations?user=W9sTkS0AAAAJ&hl=en)"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[MasakhaNEWS: News Topic Classification for African languages](https://arxiv.org/abs/2304.09972)</b> <br> 
+<b>David Ifeoluwa Adelani</b>, Marek Masiak, Israel Abebe Azime, Jesujoba O. Alabi, Atnafu Lambebo Tonja, Christine Mwase, Odunayo Ogundepo, Bonaventure F. P. Dossou, Akintunde Oladipo, and Pontus Stenetorp <b> In IJCNLP-AACL, 2023</b>.
