@@ -88,6 +88,9 @@ Dawei Zhu, Michael A. Hedderich, Fangzhou Zhai, <b>David Ifeoluwa Adelani</b>, a
 <b>[Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages](https://arxiv.org/abs/2010.03179)</b> <br> 
 Michael A. Hedderich, <b>David Ifeoluwa Adelani</b>,  Dawei Zhu, Jesujoba Alabi, Udia Markus, and Dietrich Klakow<em>. In MT-Summit, 2020 </em>. 
 
+<b>[Investigating the Impact of Pre-trained Word Embeddings on Memorization in Neural Networks](https://inria.hal.science/hal-02880590/document)</b> <br> 
+Aleena Thomas, <b>David Ifeoluwa Adelani</b>, Ali Davody, Aditya Mogadala, and Dietrich Klakow <em>. In TSD, 2020 </em>. 
+
 <b>[Privacy Guarantees for De-identifying Text Transformations](https://arxiv.org/abs/2008.03101)</b> <br> 
 <b>David Ifeoluwa Adelani</b>, Ali Davody, Thomas Kleinbauer, and Dietrich Klakow<em>. In Interspeech, 2020 </em>. 
 
@@ -100,23 +103,21 @@ Jesujoba O. Alabi, Kwabena Amponsah-Kaakyire, <b>David Ifeoluwa Adelani</b>,  an
 <b>[Improving Yorùbá Diacritic Restoration](https://arxiv.org/abs/2003.10564)</b> <br> 
 Iroro Orife, <b>David Ifeoluwa Adelani</b>, Timi Fasubaa, Victor Williamson, Wuraola Fisayo Oyewusi, Olamilekan Wahab, and Kola Tubosun<em>. In  AfricaNLP Workshop at ICLR 2020</em>. 
 
-<b>[Investigating the Impact of Pre-trained Word Embeddings on Memorization in Neural Networks](https://inria.hal.science/hal-02880590/document)</b> <br> 
-Aleena Thomas, <b>David Ifeoluwa Adelani</b>, Ali Davody, Aditya Mogadala, and Dietrich Klakow <em>. In TSD, 2020 </em>. 
 
 2019
 ------
 
 <b>[Generating Sentiment-Preserving Fake Online Reviews Using Neural Language Models and Their Human- and Machine-based Detection](https://arxiv.org/abs/1907.09177)</b> <br> 
-<b>David Ifeoluwa Adelani</b>, Haotian Mai, Fuming Fang, Huy H. Nguyen, Junichi Yamagishi, and Isao Echizen<em>. In AINA, 2019 </em>. 
+<b>David Ifeoluwa Adelani</b>, Haotian Mai, Fuming Fang, Huy H. Nguyen, Junichi Yamagishi, and Isao Echizen<em>. In AINA, 2019</em>. 
 
 <b>[Demographic Inference and Representative Population Estimates from Multilingual Social Media Data](https://arxiv.org/abs/1905.05961)</b> <br> 
-Zijian Wang, Scott A. Hale, <b>David Ifeoluwa Adelani</b>,  Przemyslaw A. Grabowicz, Timo Hartmann, Fabian Flöck, and David Jurgens <em>. In Web Conference, 2019 </em>. 
+Zijian Wang, Scott A. Hale, <b>David Ifeoluwa Adelani</b>,  Przemyslaw A. Grabowicz, Timo Hartmann, Fabian Flöck, and David Jurgens <em>. In Web Conference, 2019</em>. 
 
 Before 2019
 ------
 
 <b>[Enhancing the reusability and interoperability of artificial neural networks with DEVS modeling and simulation](https://www.worldscientific.com/doi/abs/10.1142/S1793962316500057)</b> <br> 
-<b>David Ifeoluwa Adelani</b>, and Mamadou Kaba Traoré<em>. In IJMSSC, 2019 </em>. 
+<b>David Ifeoluwa Adelani</b>, and Mamadou Kaba Traoré<em>. In IJMSSC, 2019</em>. 
 
 <b>[A Secure e-Voting Architecture](https://ieeexplore.ieee.org/abstract/document/5945258)</b> <br> 
-A.S. Sodiya, S.A. Onashoga and <b>D.I. Adelani</b> <em>. In ITNG, 2011 </em>. 
+A.S. Sodiya, S.A. Onashoga and <b>D.I. Adelani</b> <em>. In ITNG, 2011</em>. 
