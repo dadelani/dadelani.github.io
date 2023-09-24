@@ -48,20 +48,25 @@ Ali Davody, <b>David Ifeoluwa Adelani</b>,  Thomas Kleinbauer, and Dietrich Klak
 <b>[BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus](https://arxiv.org/abs/2207.03546)</b> <br> 
 Josh Meyer, <b>David Ifeoluwa Adelani</b>, Edresson Casanova, Alp Öktem, Daniel Whitenack, ..., Shamsuddeen Muhammad <em>. In Interspeech, 2022 </em>. 
 
-<b>[BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus](https://arxiv.org/abs/2207.03546)</b> <br> 
-Josh Meyer, <b>David Ifeoluwa Adelani</b>, Edresson Casanova, Alp Öktem, Daniel Whitenack, ..., Shamsuddeen Muhammad <em>. In Interspeech, 2022 </em>. 
+<b>[A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation
+](https://arxiv.org/abs/2205.02022)</b> <br> 
+<b>David Ifeoluwa Adelani</b>, Jesujoba Oluwadara Alabi, Angela Fan, Julia Kreutzer, Xiaoyu Shen, Machel Reid, Dana Ruiter, Dietrich Klakow, ... et al <em>. In NAACL, 2022 </em>. 
 
-<b>[BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus](https://arxiv.org/abs/2207.03546)</b> <br> 
-Josh Meyer, <b>David Ifeoluwa Adelani</b>, Edresson Casanova, Alp Öktem, Daniel Whitenack, ..., Shamsuddeen Muhammad <em>. In Interspeech, 2022 </em>. 
+<b>[MCSE: Multimodal Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2204.10931)</b> <br> 
+Miaoran Zhang, Marius Mosbach, <b>David Ifeoluwa Adelani</b>, Michael A. Hedderich, and Dietrich Klakow <em>. In NAACL, 2022 </em>. 
 
-<b>[BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus](https://arxiv.org/abs/2207.03546)</b> <br> 
-Josh Meyer, <b>David Ifeoluwa Adelani</b>, Edresson Casanova, Alp Öktem, Daniel Whitenack, ..., Shamsuddeen Muhammad <em>. In Interspeech, 2022 </em>. 
+<b>[NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis
+](https://arxiv.org/abs/2201.08277)</b> <br> 
+Shamsuddeen Hassan Muhammad, <b>David Ifeoluwa Adelani</b>, Sebastian Ruder, Ibrahim Said Ahmad, Idris Abdulmumin ..., Pavel Brazdil <em>. In LREC, 2022 </em>. 
 
-<b>[BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus](https://arxiv.org/abs/2207.03546)</b> <br> 
-Josh Meyer, <b>David Ifeoluwa Adelani</b>, Edresson Casanova, Alp Öktem, Daniel Whitenack, ..., Shamsuddeen Muhammad <em>. In Interspeech, 2022 </em>. 
+<b>[Pre-Trained Multilingual Sequence-to-Sequence Models: A Hope for Low-Resource Language Translation?
+](https://arxiv.org/abs/2203.08850)</b> <br> 
+En-Shiun Annie Lee, Sarubi Thillainathan, Shravan Nayak, Surangika Ranathunga, <b>David Ifeoluwa Adelani</b>, Ruisi Su, and Arya D. McCarthy <em>. In ACL, 2022 (Findings) </em>. 
 
-<b>[BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus](https://arxiv.org/abs/2207.03546)</b> <br> 
-Josh Meyer, <b>David Ifeoluwa Adelani</b>, Edresson Casanova, Alp Öktem, Daniel Whitenack, ..., Shamsuddeen Muhammad <em>. In Interspeech, 2022 </em>. 
+<b>[Is BERT Robust to Label Noise? A Study on Learning with Noisy Labels in Text Classification
+](https://arxiv.org/abs/2204.09371)</b> <br> 
+Dawei Zhu, Michael A. Hedderich, Fangzhou Zhai, <b>David Ifeoluwa Adelani</b>, and Dietrich Klakow <em>. In Insights from Negative Results Workshop at ACL, 2022 </em>. 
+
 
 
 2021
