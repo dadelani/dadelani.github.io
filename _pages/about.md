@@ -21,5 +21,6 @@ News
 * 3 papers accepted at AfricaNLP Worshop 2023
 
 
-For more info
+Favourite Quote
 ------
+"Anything you find your hands doing, do it with all your might" (since 2006)
