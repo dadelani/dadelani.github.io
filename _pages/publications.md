@@ -20,6 +20,6 @@ Iyanuoluwa Shode, <b>David Ifeoluwa Adelani</b>, Jing Peng, and Anna Feldman <em
 Zheng-Xin Yong, Hailey Schoelkopf, Niklas Muennighoff, Alham Fikri Aji, <b>David Ifeoluwa Adelani</b>, ..., and Vassilina Nikoulina <em> In ACL, 2023</em>.
 
 <b>[Ẹ KÚ <MASK>: Integrating Yorùbá cultural greetings into machine translation](https://arxiv.org/abs/2303.17972)</b> <br> 
-Idris Akinade, Jesujoba Alabi, <b>David Ifeoluwa Adelani</b>, Clement Odoje, and Dietrich Klakow <em> In ACL, 2023</em>. 
+Idris Akinade, Jesujoba Alabi, <b>David Ifeoluwa Adelani</b>, Clement Odoje, and Dietrich Klakow <em> In C3NLP Workshop at EACL, 2023</em>. 
 
 
