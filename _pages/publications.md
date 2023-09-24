@@ -39,23 +39,30 @@ Hugo Laurençon, Lucile Saulnier, Thomas Wang, Christopher Akiki,..., <b>David I
 <b>[Adapting pre-trained language models to African languages via multilingual adaptive fine-tuning](https://arxiv.org/abs/2204.06487)</b> <br> 
 Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, Marius Mosbach, and Dietrich Klakow <em> In COLING, 2022 </em>. 
 
-<b>[Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning]([https://arxiv.org/abs/2303.17972](https://aclanthology.org/2022.coling-1.377/))</b> <br> 
+<b>[Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning](https://aclanthology.org/2022.coling-1.377/))</b> <br> 
 Ernie Chang, Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, and Vera Demberg <em> In COLING, 2022 </em>. 
 
-<b>[Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning]([https://arxiv.org/abs/2303.17972](https://aclanthology.org/2022.coling-1.377/))</b> <br> 
-Ernie Chang, Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, and Vera Demberg <em> In COLING, 2022 </em>. 
+<b>[TOKEN Is a MASK: Few-shot Named Entity Recognition with Pre-trained Language Models](https://arxiv.org/abs/2206.07841)</b> <br> 
+Ali Davody, <b>David Ifeoluwa Adelani</b>,  Thomas Kleinbauer, and Dietrich Klakow <em> In TSD, 2022 </em>. 
 
-<b>[Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning]([https://arxiv.org/abs/2303.17972](https://aclanthology.org/2022.coling-1.377/))</b> <br> 
-Ernie Chang, Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, and Vera Demberg <em> In COLING, 2022 </em>. 
+<b>[BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus](https://arxiv.org/abs/2207.03546)</b> <br> 
+Josh Meyer, <b>David Ifeoluwa Adelani</b>, Edresson Casanova, Alp Öktem, Daniel Whitenack, ..., Shamsuddeen Muhammad <em> In Interspeech, 2022 </em>. 
 
-<b>[Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning]([https://arxiv.org/abs/2303.17972](https://aclanthology.org/2022.coling-1.377/))</b> <br> 
-Ernie Chang, Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, and Vera Demberg <em> In COLING, 2022 </em>. 
+<b>[BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus](https://arxiv.org/abs/2207.03546)</b> <br> 
+Josh Meyer, <b>David Ifeoluwa Adelani</b>, Edresson Casanova, Alp Öktem, Daniel Whitenack, ..., Shamsuddeen Muhammad <em> In Interspeech, 2022 </em>. 
 
-<b>[Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning]([https://arxiv.org/abs/2303.17972](https://aclanthology.org/2022.coling-1.377/))</b> <br> 
-Ernie Chang, Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, and Vera Demberg <em> In COLING, 2022 </em>. 
+<b>[BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus](https://arxiv.org/abs/2207.03546)</b> <br> 
+Josh Meyer, <b>David Ifeoluwa Adelani</b>, Edresson Casanova, Alp Öktem, Daniel Whitenack, ..., Shamsuddeen Muhammad <em> In Interspeech, 2022 </em>. 
 
-<b>[Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning]([https://arxiv.org/abs/2303.17972](https://aclanthology.org/2022.coling-1.377/))</b> <br> 
-Ernie Chang, Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, and Vera Demberg <em> In COLING, 2022 </em>. 
+<b>[BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus](https://arxiv.org/abs/2207.03546)</b> <br> 
+Josh Meyer, <b>David Ifeoluwa Adelani</b>, Edresson Casanova, Alp Öktem, Daniel Whitenack, ..., Shamsuddeen Muhammad <em> In Interspeech, 2022 </em>. 
+
+<b>[BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus](https://arxiv.org/abs/2207.03546)</b> <br> 
+Josh Meyer, <b>David Ifeoluwa Adelani</b>, Edresson Casanova, Alp Öktem, Daniel Whitenack, ..., Shamsuddeen Muhammad <em> In Interspeech, 2022 </em>. 
+
+<b>[BibleTTS: a large, high-fidelity, multilingual, and uniquely African speech corpus](https://arxiv.org/abs/2207.03546)</b> <br> 
+Josh Meyer, <b>David Ifeoluwa Adelani</b>, Edresson Casanova, Alp Öktem, Daniel Whitenack, ..., Shamsuddeen Muhammad <em> In Interspeech, 2022 </em>. 
+
 
 2021
 ------
