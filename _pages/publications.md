@@ -86,16 +86,16 @@ Dawei Zhu, Michael A. Hedderich, Fangzhou Zhai, <b>David Ifeoluwa Adelani</b>, a
 <b>David Ifeoluwa Adelani</b>,  Ryota Kobayashi, Ingmar Weber, and Przemyslaw A. Grabowicz<em>. EPJ Data science, 2020</em>. 
 
 <b>[Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages](https://arxiv.org/abs/2010.03179)</b> <br> 
-Michael A. Hedderich, <b>David Ifeoluwa Adelani</b>,  Dawei Zhu, Jesujoba Alabi, Udia Markus, and Dietrich Klakow<em>. In MT-Summit, 2020 </em>. 
+Michael A. Hedderich, <b>David Ifeoluwa Adelani</b>,  Dawei Zhu, Jesujoba Alabi, Udia Markus, and Dietrich Klakow<em>. In MT-Summit, 2020</em>. 
 
 <b>[Investigating the Impact of Pre-trained Word Embeddings on Memorization in Neural Networks](https://inria.hal.science/hal-02880590/document)</b> <br> 
-Aleena Thomas, <b>David Ifeoluwa Adelani</b>, Ali Davody, Aditya Mogadala, and Dietrich Klakow <em>. In TSD, 2020 </em>. 
+Aleena Thomas, <b>David Ifeoluwa Adelani</b>, Ali Davody, Aditya Mogadala, and Dietrich Klakow <em>. In TSD, 2020</em>. 
 
 <b>[Privacy Guarantees for De-identifying Text Transformations](https://arxiv.org/abs/2008.03101)</b> <br> 
-<b>David Ifeoluwa Adelani</b>, Ali Davody, Thomas Kleinbauer, and Dietrich Klakow<em>. In Interspeech, 2020 </em>. 
+<b>David Ifeoluwa Adelani</b>, Ali Davody, Thomas Kleinbauer, and Dietrich Klakow<em>. In Interspeech, 2020</em>. 
 
 <b>[Massive vs. Curated Word Embeddings for Low-Resourced Languages. The Case of Yorùbá and Twi](https://arxiv.org/abs/1912.02481)</b> <br> 
-Jesujoba O. Alabi, Kwabena Amponsah-Kaakyire, <b>David Ifeoluwa Adelani</b>,  and Cristina España-Bonet <em>. In MT-Summit, 2020 </em>. 
+Jesujoba O. Alabi, Kwabena Amponsah-Kaakyire, <b>David Ifeoluwa Adelani</b>,  and Cristina España-Bonet <em>. In MT-Summit, 2020</em>. 
 
 <b>[Distant Supervision and Noisy Label Learning for Low Resource Named Entity Recognition: A Study on Hausa and Yorùbá](https://arxiv.org/abs/2003.08370)</b> <br> 
 <b>David Ifeoluwa Adelani</b>,  Michael A. Hedderich, Dawei Zhu, Esther van den Berg, and Dietrich Klakow<em>. In PML4DC and AfricaNLP Workshop at ICLR 2020</em>. 
