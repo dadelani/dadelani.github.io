@@ -104,7 +104,7 @@ Jesujoba O. Alabi, Kwabena Amponsah-Kaakyire, <b>David Ifeoluwa Adelani</b>,  an
 Iroro Orife, <b>David Ifeoluwa Adelani</b>, Timi Fasubaa, Victor Williamson, Wuraola Fisayo Oyewusi, Olamilekan Wahab, and Kola Tubosun<em>. In  AfricaNLP Workshop at ICLR 2020</em>. 
 
 <b>[Generating Sentiment-Preserving Fake Online Reviews Using Neural Language Models and Their Human- and Machine-based Detection](https://arxiv.org/abs/1907.09177)</b> <br> 
-<b>David Ifeoluwa Adelani</b>, Haotian Mai, Fuming Fang, Huy H. Nguyen, Junichi Yamagishi, and Isao Echizen<em>. In AINA, 2019</em>.
+<b>David Ifeoluwa Adelani</b>, Haotian Mai, Fuming Fang, Huy H. Nguyen, Junichi Yamagishi, and Isao Echizen<em>. In AINA, 2020</em>.
 
 
 2019
@@ -117,7 +117,7 @@ Before 2019
 ------
 
 <b>[Enhancing the reusability and interoperability of artificial neural networks with DEVS modeling and simulation](https://www.worldscientific.com/doi/abs/10.1142/S1793962316500057)</b> <br> 
-<b>David Ifeoluwa Adelani</b>, and Mamadou Kaba Traoré<em>. In IJMSSC, 2019</em>. 
+<b>David Ifeoluwa Adelani</b>, and Mamadou Kaba Traoré<em>. In IJMSSC, 2016</em>. 
 
 <b>[A Secure e-Voting Architecture](https://ieeexplore.ieee.org/abstract/document/5945258)</b> <br> 
 A.S. Sodiya, S.A. Onashoga and <b>D.I. Adelani</b> <em>. In ITNG, 2011</em>. 
