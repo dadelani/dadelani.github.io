@@ -103,12 +103,12 @@ Jesujoba O. Alabi, Kwabena Amponsah-Kaakyire, <b>David Ifeoluwa Adelani</b>,  an
 <b>[Improving Yorùbá Diacritic Restoration](https://arxiv.org/abs/2003.10564)</b> <br> 
 Iroro Orife, <b>David Ifeoluwa Adelani</b>, Timi Fasubaa, Victor Williamson, Wuraola Fisayo Oyewusi, Olamilekan Wahab, and Kola Tubosun<em>. In  AfricaNLP Workshop at ICLR 2020</em>. 
 
+<b>[Generating Sentiment-Preserving Fake Online Reviews Using Neural Language Models and Their Human- and Machine-based Detection](https://arxiv.org/abs/1907.09177)</b> <br> 
+<b>David Ifeoluwa Adelani</b>, Haotian Mai, Fuming Fang, Huy H. Nguyen, Junichi Yamagishi, and Isao Echizen<em>. In AINA, 2019</em>.
+
 
 2019
-------
-
-<b>[Generating Sentiment-Preserving Fake Online Reviews Using Neural Language Models and Their Human- and Machine-based Detection](https://arxiv.org/abs/1907.09177)</b> <br> 
-<b>David Ifeoluwa Adelani</b>, Haotian Mai, Fuming Fang, Huy H. Nguyen, Junichi Yamagishi, and Isao Echizen<em>. In AINA, 2019</em>. 
+------ 
 
 <b>[Demographic Inference and Representative Population Estimates from Multilingual Social Media Data](https://arxiv.org/abs/1905.05961)</b> <br> 
 Zijian Wang, Scott A. Hale, <b>David Ifeoluwa Adelani</b>,  Przemyslaw A. Grabowicz, Timo Hartmann, Fabian Flöck, and David Jurgens <em>. In Web Conference, 2019</em>. 
