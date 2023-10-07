@@ -14,7 +14,7 @@ redirect_from:
 
 News
 ======
-* 4 papers accepted at EMNLP 2023: [AfriSenti](https://arxiv.org/abs/2302.08956), ArawaT5, [AfriQA (findings)](https://arxiv.org/abs/2305.06897), [XTREME-UP (findings)](https://arxiv.org/abs/2305.11938)
+* 4 papers accepted at EMNLP 2023: [AfriSenti](https://arxiv.org/abs/2302.08956), ArawaT5, [AfriQA](https://arxiv.org/abs/2305.06897), [XTREME-UP](https://arxiv.org/abs/2305.11938)
 * 1 paper accepted at NeurIPS 2023: [Improving Language Plasticity via Pretraining with Active Forgetting](https://arxiv.org/abs/2307.01163)
 * 1 paper accepted at AACL 2023: [MasakhaNEWS](https://arxiv.org/abs/2304.09972)
 * 3 papers accepted at ACL 2023: [MasakhaPOS](https://arxiv.org/abs/2305.13989), [NollySenti](https://arxiv.org/abs/2305.10971), [BLOOM+1](https://arxiv.org/abs/2212.09535)
