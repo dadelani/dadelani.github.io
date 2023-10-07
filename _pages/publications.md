@@ -9,16 +9,16 @@ author_profile: true
 
 <b>[Better Quality Pre-training Data and T5 Models for African Languages
 ]()</b> <br> 
-Akintunde Oladipo, Mofetoluwa Adeyemi, Orevaoghene Ahia, Abraham Toluwase Owodunni, Odunayo Ogundepo, <b> David Ifeoluwa Adelani </b>, Jimmy Lin <em>. In EMNLP, 2023</em>.
+Akintunde Oladipo, Mofetoluwa Adeyemi, Orevaoghene Ahia, Abraham Toluwase Owodunni, Odunayo Ogundepo, <b>David Ifeoluwa Adelani</b>, Jimmy Lin <em>. In EMNLP, 2023</em>.
 
 <b>[AfriSenti: A Twitter Sentiment Analysis Benchmark for African Languages](https://arxiv.org/abs/2302.08956)</b> <br> 
-Shamsuddeen Hassan Muhammad, Idris Abdulmumin, Abinew Ali Ayele, Nedjma Ousidhoum, <b>David Ifeoluwa Adelani</b> et al. <em>. In EMNLP, 2023</em>.
+Shamsuddeen Hassan Muhammad, Idris Abdulmumin, Abinew Ali Ayele, Nedjma Ousidhoum, <b>David Ifeoluwa Adelani</b> et al.<em> In EMNLP, 2023</em>.
 
 <b>[XTREME-UP: A User-Centric Scarce-Data Benchmark for Under-Represented Languages](https://arxiv.org/abs/2305.11938)</b> <br> 
-Sebastian Ruder, Jonathan H. Clark, Alexander Gutkin, Mihir Kale, Min Ma, Massimo Nicosia, Shruti Rijhwani, ..., <b>David I. Adelani</b>,.et al. <em>. In EMNLP, 2023</em>.
+Sebastian Ruder, Jonathan H. Clark, Alexander Gutkin, Mihir Kale, Min Ma, Massimo Nicosia, Shruti Rijhwani, ..., <b>David I. Adelani</b> et al<em>. In EMNLP, 2023</em>.
 
 <b>[AfriQA: Cross-lingual Open-Retrieval Question Answering for African Languages](https://arxiv.org/abs/2305.06897)</b> <br> 
-Odunayo Ogundepo, Tajuddeen R. Gwadabe, Clara E. Rivera, Jonathan H. Clark, Sebastian Ruder, <b>David Ifeoluwa Adelani</b>, et. al. <em>. In EMNLP, 2023</em>.
+Odunayo Ogundepo, Tajuddeen R. Gwadabe, Clara E. Rivera, Jonathan H. Clark, Sebastian Ruder, <b>David Ifeoluwa Adelani</b> et. al<em>. In EMNLP, 2023</em>.
 
 <b>[Improving Language Plasticity via Pretraining with Active Forgetting](https://arxiv.org/abs/2307.01163)</b> <br> 
 Yihong Chen, Kelly Marchisio, Roberta Raileanu, <b>David Ifeoluwa Adelani</b>, Pontus Stenetorp, Sebastian Riedel, and Mikel Artetxe <em>. In NeurIPS, 2023</em>.
