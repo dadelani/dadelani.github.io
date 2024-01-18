@@ -4,11 +4,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+2024
+------
+<b>[SIB-200: A Simple, Inclusive, and Big Evaluation Dataset for Topic Classification in 200+ Languages and Dialects](https://arxiv.org/abs/2309.07445)</b> <br> 
+<b>David Ifeoluwa Adelani</b>, Hannah Liu, Xiaoyu Shen, Nikita Vassilyev, Jesujoba O. Alabi, Yanke Mao, Haonan Gao, Annie En-Shiun Lee <em>. In EACL, 2024</em>.
+
 2023
 ------
 
-<b>[Better Quality Pre-training Data and T5 Models for African Languages
-]()</b> <br> 
+<b>[Better Quality Pre-training Data and T5 Models for African Languages](https://aclanthology.org/2023.emnlp-main.11/)</b> <br> 
 Akintunde Oladipo, Mofetoluwa Adeyemi, Orevaoghene Ahia, Abraham Toluwase Owodunni, Odunayo Ogundepo, <b>David Ifeoluwa Adelani</b>, Jimmy Lin <em>. In EMNLP, 2023</em>.
 
 <b>[AfriSenti: A Twitter Sentiment Analysis Benchmark for African Languages](https://arxiv.org/abs/2302.08956)</b> <br> 
