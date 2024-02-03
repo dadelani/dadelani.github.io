@@ -45,3 +45,7 @@ Service and leadership
   * Multilingual Representation Learning at EMNLP 2024, 2023
   * Cross-Cultural Considerations in NLP Workshop 2023
   * Director at [Masakhane Research Foundation](https://www.masakhane.io/) --- grassroots NLP community for Africa}
+ 
+Full CV
+====== 
+For more information, download my [CV](https://dadelani.github.io/files/DavidAdelaniCV.pdf)
