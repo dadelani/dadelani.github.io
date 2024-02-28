@@ -12,7 +12,7 @@ author_profile: true
 <b>[ÌròyìnSpeech: A multi-purpose Yorùbá Speech Corpus](https://arxiv.org/abs/2307.16071)</b> <br> 
 Tolulope Ogunremi, Anuoluwapo Aremu, Iroro Orife, <b>David Ifeoluwa Adelani</b> <em>. In LREC-COLING, 2024</em>.
 
-<b>[Mitigating Translationese in Low-resource Languages: The Storyboard Approach](https://arxiv.org/abs/2309.07445)</b> <br> 
+<b> Mitigating Translationese in Low-resource Languages: The Storyboard Approach </b> <br> 
 Garry Kuwanto, Eno-Abasi Urua, ..., <b>David Ifeoluwa Adelani</b>, Derry Tanti Wijaya and Anietie Andy <em>. In LREC-COLING, 2024 </em>.
 
 2023
