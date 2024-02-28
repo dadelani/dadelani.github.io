@@ -9,6 +9,12 @@ author_profile: true
 <b>[SIB-200: A Simple, Inclusive, and Big Evaluation Dataset for Topic Classification in 200+ Languages and Dialects](https://arxiv.org/abs/2309.07445)</b> <br> 
 <b>David Ifeoluwa Adelani</b>, Hannah Liu, Xiaoyu Shen, Nikita Vassilyev, Jesujoba O. Alabi, Yanke Mao, Haonan Gao, Annie En-Shiun Lee <em>. In EACL, 2024</em>.
 
+<b>[ÌròyìnSpeech: A multi-purpose Yorùbá Speech Corpus](https://arxiv.org/abs/2307.16071)</b> <br> 
+Tolulope Ogunremi, Anuoluwapo Aremu, Iroro Orife, <b>David Ifeoluwa Adelani</b> <em>. In LREC-COLING, 2024</em>.
+
+<b>[Mitigating Translationese in Low-resource Languages: The Storyboard Approach](https://arxiv.org/abs/2309.07445)</b> <br> 
+Garry Kuwanto, Eno-Abasi Urua, ..., <b>David Ifeoluwa Adelani</b>, Derry Tanti Wijaya and Anietie Andy <em>. In LREC-COLING, 2024 </em>.
+
 2023
 ------
 
@@ -103,7 +109,7 @@ Dawei Zhu, Michael A. Hedderich, Fangzhou Zhai, <b>David Ifeoluwa Adelani</b>, a
 <b>David Ifeoluwa Adelani</b>,  Ryota Kobayashi, Ingmar Weber, and Przemyslaw A. Grabowicz<em>. EPJ Data science, 2020</em>. 
 
 <b>[Transfer Learning and Distant Supervision for Multilingual Transformer Models: A Study on African Languages](https://arxiv.org/abs/2010.03179)</b> <br> 
-Michael A. Hedderich, <b>David Ifeoluwa Adelani</b>,  Dawei Zhu, Jesujoba Alabi, Udia Markus, and Dietrich Klakow<em>. In MT-Summit, 2020</em>. 
+Michael A. Hedderich, <b>David Ifeoluwa Adelani</b>,  Dawei Zhu, Jesujoba Alabi, Udia Markus, and Dietrich Klakow<em>. In EMNLP, 2020</em>. 
 
 <b>[Investigating the Impact of Pre-trained Word Embeddings on Memorization in Neural Networks](https://inria.hal.science/hal-02880590/document)</b> <br> 
 Aleena Thomas, <b>David Ifeoluwa Adelani</b>, Ali Davody, Aditya Mogadala, and Dietrich Klakow <em>. In TSD, 2020</em>. 
@@ -112,7 +118,7 @@ Aleena Thomas, <b>David Ifeoluwa Adelani</b>, Ali Davody, Aditya Mogadala, and D
 <b>David Ifeoluwa Adelani</b>, Ali Davody, Thomas Kleinbauer, and Dietrich Klakow<em>. In Interspeech, 2020</em>. 
 
 <b>[Massive vs. Curated Word Embeddings for Low-Resourced Languages. The Case of Yorùbá and Twi](https://arxiv.org/abs/1912.02481)</b> <br> 
-Jesujoba O. Alabi, Kwabena Amponsah-Kaakyire, <b>David Ifeoluwa Adelani</b>,  and Cristina España-Bonet <em>. In MT-Summit, 2020</em>. 
+Jesujoba O. Alabi, Kwabena Amponsah-Kaakyire, <b>David Ifeoluwa Adelani</b>,  and Cristina España-Bonet <em>. In LREC, 2020</em>. 
 
 <b>[Distant Supervision and Noisy Label Learning for Low Resource Named Entity Recognition: A Study on Hausa and Yorùbá](https://arxiv.org/abs/2003.08370)</b> <br> 
 <b>David Ifeoluwa Adelani</b>,  Michael A. Hedderich, Dawei Zhu, Esther van den Berg, and Dietrich Klakow<em>. In PML4DC and AfricaNLP Workshop at ICLR 2020</em>. 
