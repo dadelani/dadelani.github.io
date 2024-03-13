@@ -15,6 +15,7 @@ redirect_from:
 
 News
 ======
+* 1 paper accepted at NAACL 2024: [AfriMTE & AfriCOMET](https://arxiv.org/abs/2311.09828)
 * 2 papers accepted at LREC-COLING 2024: [ÌròyìnSpeech](https://arxiv.org/abs/2307.16071) and Mitigating Translationese in Low-resource Languages
 * 1 paper accepted at EACL 2024: [SIB-200](https://arxiv.org/abs/2309.07445)
 * 4 papers accepted at EMNLP 2023: [AfriSenti](https://arxiv.org/abs/2302.08956), [AfriTeVa V2](https://aclanthology.org/2023.emnlp-main.11/), [AfriQA](https://arxiv.org/abs/2305.06897), [XTREME-UP](https://arxiv.org/abs/2305.11938)
