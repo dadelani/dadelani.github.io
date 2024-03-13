@@ -6,6 +6,9 @@ author_profile: true
 
 2024
 ------
+<b>[AfriMTE and AfriCOMET: Enhancing COMET to Embrace Under-resourced African Languages](https://arxiv.org/abs/2311.09828)</b> <br> 
+Jiayi Wang, <b>David Ifeoluwa Adelani</b>, Sweta Agrawal, Marek Masiak, Ricardo Rei, Eleftheria Briakou, Marine Carpuat, Xuanli He, ..., Pontus Stenetorp <em>. In NAACL, 2024</em>.
+
 <b>[SIB-200: A Simple, Inclusive, and Big Evaluation Dataset for Topic Classification in 200+ Languages and Dialects](https://arxiv.org/abs/2309.07445)</b> <br> 
 <b>David Ifeoluwa Adelani</b>, Hannah Liu, Xiaoyu Shen, Nikita Vassilyev, Jesujoba O. Alabi, Yanke Mao, Haonan Gao, Annie En-Shiun Lee <em>. In EACL, 2024</em>.
 
