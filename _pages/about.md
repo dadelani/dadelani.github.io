@@ -34,9 +34,11 @@ Research interests
   * Machine translation
   * Multilingual representation learning
   * Cross-lingual transfer learning
-* Multilingual NLP
 * Speech processing
   * Text-to-speech
+  * Speech recognition
+  * Speech representation learning
+  * Speech translation
 
 
 Favourite Quote
