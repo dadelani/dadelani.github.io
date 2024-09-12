@@ -25,6 +25,17 @@ News
 * 1 paper accepted at C3NLP Workshop at EACL 2023: [Ẹ KU [MASK]](https://arxiv.org/abs/2303.17972)
 * 4 papers accepted at AfricaNLP Worshop 2023: [Ẹ KU [MASK]](https://arxiv.org/abs/2303.17972), [MasakhaNEWS](https://arxiv.org/abs/2304.09972), [AfriSenti](https://arxiv.org/abs/2302.08956), and [MphayaNER](https://arxiv.org/abs/2304.03952)
 
+Students
+======
+* PhD students:
+  * [Senyu Li](https://mila.quebec/en/directory/senyu-li-li): 2024 -
+* MSc students:
+  * [Jessica Ojo](https://mila.quebec/en/directory/jessica-ojo): 2024 -
+  * [Hao Yu](https://yhpeter.github.io/): 2024 - 
+* Interns:
+  * [Fabian David Schmidt](https://fdschmidt93.github.io/) (PhD student at University of Würzburg): Sep 2024 - 
+
+
 
 Research interests
 ======
