@@ -6,6 +6,17 @@ author_profile: true
 
 2024
 ------
+<b>[Voices Unheard: NLP Resources and Models for Yorùbá Regional Dialects](https://arxiv.org/abs/2406.19564)</b> <br> 
+Orevaoghene Ahia, Anuoluwapo Aremu, Diana Abagyan, Hila Gonen, <b>David Ifeoluwa Adelani</b>, Daud Abolade, Noah A. Smith, Yulia Tsvetkov
+ <em>. In EMNLP, 2024</em>.
+
+<b>[Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models](https://arxiv.org/abs/2407.16470)</b> <br> 
+Kenza Benkirane, Laura Gongas, Shahar Pelles, Naomi Fuchs, Joshua Darmon, Pontus Stenetorp, <b>David Ifeoluwa Adelani</b>, Eduardo Sánchez <em>. In EMNLP, 2024</em>.
+
+<b>[MINERS: Multilingual Language Models as Semantic Retrievers](https://arxiv.org/abs/2406.07424)</b> <br> 
+Genta Indra Winata, Ruochen Zhang, and <b>David Ifeoluwa Adelani</b>. <em>. In EMNLP, 2024</em>.
+
+
 <b>[AfriMTE and AfriCOMET: Enhancing COMET to Embrace Under-resourced African Languages](https://arxiv.org/abs/2311.09828)</b> <br> 
 Jiayi Wang, <b>David Ifeoluwa Adelani</b>, Sweta Agrawal, Marek Masiak, Ricardo Rei, Eleftheria Briakou, Marine Carpuat, Xuanli He, ..., Pontus Stenetorp <em>. In NAACL, 2024</em>.
 
@@ -15,7 +26,7 @@ Jiayi Wang, <b>David Ifeoluwa Adelani</b>, Sweta Agrawal, Marek Masiak, Ricardo 
 <b>[ÌròyìnSpeech: A multi-purpose Yorùbá Speech Corpus](https://arxiv.org/abs/2307.16071)</b> <br> 
 Tolulope Ogunremi, Anuoluwapo Aremu, Iroro Orife, <b>David Ifeoluwa Adelani</b> <em>. In LREC-COLING, 2024</em>.
 
-<b> Mitigating Translationese in Low-resource Languages: The Storyboard Approach </b> <br> 
+<b> [Mitigating Translationese in Low-resource Languages: The Storyboard Approach](https://aclanthology.org/2024.lrec-main.992/) </b> <br> 
 Garry Kuwanto, Eno-Abasi Urua, ..., <b>David Ifeoluwa Adelani</b>, Derry Tanti Wijaya and Anietie Andy <em>. In LREC-COLING, 2024 </em>.
 
 2023
