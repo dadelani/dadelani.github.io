@@ -15,6 +15,7 @@ redirect_from:
 
 News
 ======
+* 3 paper accepted at EMNLP 2024: [MINERS](https://arxiv.org/abs/2406.07424), [MT Hallucination Detection](https://arxiv.org/abs/2407.16470) and [YORÙLECT](https://arxiv.org/abs/2406.19564)
 * 1 paper accepted at NAACL 2024: [AfriMTE & AfriCOMET](https://arxiv.org/abs/2311.09828)
 * 2 papers accepted at LREC-COLING 2024: [ÌròyìnSpeech](https://arxiv.org/abs/2307.16071) and Mitigating Translationese in Low-resource Languages
 * 1 paper accepted at EACL 2024: [SIB-200](https://arxiv.org/abs/2309.07445)
