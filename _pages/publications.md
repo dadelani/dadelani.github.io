@@ -8,7 +8,7 @@ author_profile: true
 ------
 <b>[Voices Unheard: NLP Resources and Models for Yorùbá Regional Dialects](https://arxiv.org/abs/2406.19564)</b> <br> 
 Orevaoghene Ahia, Anuoluwapo Aremu, Diana Abagyan, Hila Gonen, <b>David Ifeoluwa Adelani</b>, Daud Abolade, Noah A. Smith, Yulia Tsvetkov
- <em>. In EMNLP (main conference), 2024</em>.
+ <em>. In EMNLP, 2024</em>.
 
 <b>[Machine Translation Hallucination Detection for Low and High Resource Languages using Large Language Models](https://arxiv.org/abs/2407.16470)</b> <br> 
 Kenza Benkirane, Laura Gongas, Shahar Pelles, Naomi Fuchs, Joshua Darmon, Pontus Stenetorp, <b>David Ifeoluwa Adelani</b>, Eduardo Sánchez <em>. In EMNLP Findings, 2024</em>.
