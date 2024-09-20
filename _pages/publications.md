@@ -14,7 +14,7 @@ Orevaoghene Ahia, Anuoluwapo Aremu, Diana Abagyan, Hila Gonen, <b>David Ifeoluwa
 Kenza Benkirane, Laura Gongas, Shahar Pelles, Naomi Fuchs, Joshua Darmon, Pontus Stenetorp, <b>David Ifeoluwa Adelani</b>, Eduardo Sánchez <em>. In EMNLP, 2024</em>.
 
 <b>[MINERS: Multilingual Language Models as Semantic Retrievers](https://arxiv.org/abs/2406.07424)</b> <br> 
-Genta Indra Winata, Ruochen Zhang, and <b>David Ifeoluwa Adelani</b>. <em>. In EMNLP, 2024</em>.
+Genta Indra Winata, Ruochen Zhang, and <b>David Ifeoluwa Adelani</b> <em>. In EMNLP, 2024</em>.
 
 
 <b>[AfriMTE and AfriCOMET: Enhancing COMET to Embrace Under-resourced African Languages](https://arxiv.org/abs/2311.09828)</b> <br> 
