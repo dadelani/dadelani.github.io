@@ -6,6 +6,10 @@ author_profile: true
 
 2024
 ------
+<b>[CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark](https://arxiv.org/abs/2406.05967)</b> <br> 
+David Romero, Chenyang Lyu, Haryo Akbarianto Wibowo, Teresa Lynn, Injy Hamed, Aditya Nanda Kishore, Aishik Mandal, Alina Dragonetti, Artem Abzaliev, Atnafu Lambebo Tonja, Bontu Fufa Balcha, Chenxi Whitehouse, Christian Salamea, Dan John Velasco, <b>David Ifeoluwa Adelani</b>, ..., Alham Fikri Aji
+ <em>. In NeurIPS (D&B), 2024</em>.
+ 
 <b>[Voices Unheard: NLP Resources and Models for Yorùbá Regional Dialects](https://arxiv.org/abs/2406.19564)</b> <br> 
 Orevaoghene Ahia, Anuoluwapo Aremu, Diana Abagyan, Hila Gonen, <b>David Ifeoluwa Adelani</b>, Daud Abolade, Noah A. Smith, Yulia Tsvetkov
  <em>. In EMNLP, 2024</em>.
