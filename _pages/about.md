@@ -20,7 +20,7 @@ News
 * 3 paper accepted at EMNLP 2024: [MINERS](https://arxiv.org/abs/2406.07424), [MT Hallucination Detection](https://arxiv.org/abs/2407.16470) and [YORÙLECT](https://arxiv.org/abs/2406.19564)
 * 2 papers accepted at WMT 2024: [AfriCOMETv1.1](https://aclanthology.org/2024.wmt-1.36/) and [Metrics shared task findings](https://aclanthology.org/2024.wmt-1.2/)
 * 1 paper accepted at NAACL 2024: [AfriMTE & AfriCOMET](https://arxiv.org/abs/2311.09828)
-* 2 papers accepted at LREC-COLING 2024: [ÌròyìnSpeech](https://arxiv.org/abs/2307.16071) and Mitigating Translationese in Low-resource Languages
+* 2 papers accepted at LREC-COLING 2024: [ÌròyìnSpeech](https://arxiv.org/abs/2307.16071) and [Mitigating Translationese in LRLs](https://aclanthology.org/2024.lrec-main.992/)
 * 1 paper accepted at EACL 2024: [SIB-200](https://arxiv.org/abs/2309.07445)
 * 7 papers accepted at AfricaNLP, WOAH & MRL workshops: [Yoruba ADR (YAD)](https://openreview.net/forum?id=gDm8A1uEN1), [AngOFA](https://arxiv.org/abs/2404.02534), [EkoHate](https://arxiv.org/abs/2404.18180), [AfriHG](https://openreview.net/forum?id=fw7g7pNUDl), [NaijaRC](https://arxiv.org/abs/2308.09768), [McGill Shared Task](https://aclanthology.org/2024.mrl-1.28/), [LLM on Brazillian languages](https://arxiv.org/abs/2404.18286)
   
