@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-## At McGill
+### At McGill
 
 * [COMP 598-002:Multilingual Representation Learning](https://sites.google.com/view/comp598-002-mrl/home)
 
