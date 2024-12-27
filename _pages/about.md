@@ -41,7 +41,7 @@ Students
   * [Jessica Ojo](https://mila.quebec/en/directory/jessica-ojo): 2024 -
   * [Hao Yu](https://yhpeter.github.io/): 2024 - 
 * Interns:
-  * [Fabian David Schmidt](https://fdschmidt93.github.io/) (PhD student at University of Würzburg): Sep 2024 - Dec 2024
+  * [Fabian David Schmidt](https://fdschmidt93.github.io/) (PhD student at University of Würzburg): Sep - Dec, 2024
 
 
 
