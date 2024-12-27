@@ -20,7 +20,7 @@ Education
 ======
 * B.Sc. in Computer Science, Federal University of Agriculture Abeokuta, Nigeria,  2010
 * M.Sc. in Computer Science, African University of Science and Technology Abuja, Nigeria 2014
-* Ph.D in Computer Science, Saarland University, 2023
+* Ph.D in Computer Science, Saarland University, 2023 (summa cum laude)
 
 Work experience
 ======
@@ -45,7 +45,8 @@ See my [list of publications](https://dadelani.github.io/publications/)
   
 Service and leadership
 ======
-* Area chair for ACL 2024, NAACL 2024, EACL 2024, EMNLP 2023, ACL 2023 in Efficiency in NLP or Cross-Lingual NLP track
+* Senior Area chair for ACL 2025
+* Area chair for EMNLP 2024 ACL 2024, NAACL 2024, EACL 2024, EMNLP 2023, ACL 2023 in Efficiency in NLP or Cross-Lingual NLP track
 * Reviewer for EACL 2023, EMNLP 2022, COLING 2022, LREC 2022, WeaSUL @ICLR 2021, NAACL 2021, ARR 2021 - present, AfricaNLP Workshop (2020, 2021)
 * Organizer for:
   * AfricaNLP at ICLR 2024, 2023, 2022
