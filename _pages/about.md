@@ -48,12 +48,13 @@ Research interests
   * NLP for low-resource languages
   * Machine translation
   * Multilingual representation learning
-  * Cross-lingual transfer learning
+  * Large language model adaptation
 * Speech processing
   * Text-to-speech
   * Speech recognition
   * Speech representation learning
   * Speech translation
+  * AudioLLMs
 
 
 Favourite Quote
