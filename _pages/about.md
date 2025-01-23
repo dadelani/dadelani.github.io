@@ -11,6 +11,7 @@ redirect_from:
 
 News
 ======
+* 5 papers accepted at NAACL 2025: [IrokoBench](https://arxiv.org/abs/2406.03368), [AfriHate](https://arxiv.org/abs/2501.08284), [WorldCuisines](https://arxiv.org/abs/2410.12705), [Lugha-Llama](), and [Does Generative AI speak Nigerian-Pidgin?](https://arxiv.org/abs/2404.19442)
 * 1 paper accepted at TMLR 2024: [The Responsible LLM Cheatsheet](https://arxiv.org/abs/2406.16746)
 * 1 paper accepted at NeurIPS 2024: [CVQA](https://arxiv.org/abs/2406.05967)
 * 3 paper accepted at EMNLP 2024: [MINERS](https://arxiv.org/abs/2406.07424), [MT Hallucination Detection](https://arxiv.org/abs/2407.16470) and [YORÙLECT](https://arxiv.org/abs/2406.19564)
