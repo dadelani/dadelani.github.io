@@ -24,10 +24,13 @@ Education
 
 Work experience
 ======
-* Fall 2024: Assistant Professor
+* Aug 2024 - Present: Assistant Professor
   * McGill School of Computer Science, Canada
 
-* Sep 2022 - Present : DeepMind Academic Fellow
+* Aug 2024 - Present: Core Academic Member & Canada CIFAR AI Chair
+  * Mila - Quebec AI Institute, Canada
+    
+* Sep 2022 - Jul 2024 : DeepMind Academic Fellow
   * University College London, United Kingdom
   * Collaborating with [UCL NLP Group](https://nlp.cs.ucl.ac.uk/)
 
