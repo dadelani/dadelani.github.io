@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 * I am an Assistant Professor at McGill School of Computer Science, Canada and a Core Academic Member at <a target="_blank"  href="https://mila.quebec/en/">MILA</a>, and a [Canada CIFAR AI Chair](https://cifar.ca/bios/david-ifeoluwa-adelani/) (in 2024). I will be recruiting MSc/PhD students for fall 2025, if you are interested, please apply through <a target="_blank"  href="https://mila.quebec/en/supervision-requests/">MILA's request for supervision </a> (deadline Decemeber 1, 2024). Previously, I was a DeepMind Academic Fellow at UCL, and a obtained my PhD in Computer Science at Saarland University. For more information, see my [CV](https://dadelani.github.io/cv/)
+* My research focuses on multilingual NLP especially for low-resource languages. My PhD focuses on NLP for African languages but now I am expanding to various regions of the world including South Asia, South-East Asia and Americas indigeneous languages. For more information on my research interests, see my [Research Statement](https://dadelani.github.io/cv/).
 
 News
 ======
