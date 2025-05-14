@@ -3,7 +3,24 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.ca/citati
 permalink: /publications/
 author_profile: true
 ---
+2025
+------
+<b>[IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models](https://aclanthology.org/2025.naacl-long.139/)</b> <br> 
+<b>David Ifeoluwa Adelani</b>, Jessica Ojo, Israel Abebe Azime, Jian Yun Zhuang, Jesujoba Oluwadara Alabi, Xuanli He, Millicent Ochieng, Sara Hooker, Andiswa Bukula, En-Shiun Annie Lee , ..., Pontus Stenetorp.
+ <em>. In NAACL, 2025</em>.
 
+<b>[WorldCuisines: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines](https://aclanthology.org/2025.naacl-long.167/)</b> <br> 
+Genta Indra Winata, Frederikus Hudi, Patrick Amadeus Irawan, David Anugraha, Rifki Afina Putri, ..., <b>David Ifeoluwa Adelani</b>, En-Shiun Annie Lee, Shogo Okada, Ayu Purwarianti, Alham Fikri Aji, Taro Watanabe, Derry Tanti Wijaya, Alice Oh, Chong-Wah Ngo.
+ <em>. In NAACL, 2025</em>.
+
+<b>[AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages](https://aclanthology.org/2025.naacl-long.92/)</b> <br> 
+Shamsuddeen Hassan Muhammad, Idris Abdulmumin, Abinew Ali Ayele, <b>David Ifeoluwa Adelani</b> ... et al. 
+ <em>. In NAACL, 2025</em>.
+
+ <b>[Does Generative AI speak Nigerian-Pidgin?: Issues about Representativeness and Bias for Multilingualism in LLMs](https://aclanthology.org/2025.findings-naacl.85/)</b> <br> 
+<b>David Ifeoluwa Adelani</b>, A. Seza Doğruöz, Iyanuoluwa Shode, Anuoluwapo Aremu
+ <em>. In NAACL Findings, 2025</em>.
+ 
 2024
 ------
 <b>[CVQA: Culturally-diverse Multilingual Visual Question Answering Benchmark](https://arxiv.org/abs/2406.05967)</b> <br> 
