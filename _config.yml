@@ -224,7 +224,7 @@ defaults:
   # _datasets
   - scope:
       path: ""
-      type: datasets
+      type: portfolio
     values:
       layout: single
       author_profile: true
