@@ -7,7 +7,7 @@ author_profile: true
 
 ### Published Datasets
 
-* [Yoruba-NER](https://huggingface.co/datasets/ajesujoba/yoruba_gv_ner) published at [LREC 2020](https://aclanthology.org/2020.lrec-1.335/)
+* [Menyo-20k](https://huggingface.co/datasets/UdS-LSV/menyo20k_mt) published at [MT Summit 2021](https://aclanthology.org/2021.mtsummit-research.6/)
 
 * [Hausa-VOA-NER](https://huggingface.co/datasets/UdS-LSV/hausa_voa_ner), [Hausa-VOA-Topics](https://huggingface.co/datasets/UdS-LSV/hausa_voa_topics), and [Yoruba-BBC-Topics](https://huggingface.co/datasets/UdS-LSV/yoruba_bbc_topics)  published at [EMNLP 2020](https://aclanthology.org/2020.emnlp-main.204/)
   
