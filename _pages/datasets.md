@@ -1,6 +1,6 @@
 ---
-title: "Teaching"
-permalink: /teaching/
+title: "Datasets"
+permalink: /datasets/
 author_profile: true
 ---
 
