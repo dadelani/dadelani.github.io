@@ -12,6 +12,7 @@ redirect_from:
 
 News
 ======
+* 5 papers accepted at ACL 2025: [Warmup Generations](https://arxiv.org/abs/2502.12304), [Injongo](https://arxiv.org/abs/2502.09814), [AfroBench](https://arxiv.org/abs/2311.07978), [GlobalMMLU](https://arxiv.org/abs/2412.03304), and [BRIGHTER](https://arxiv.org/abs/2502.11926)
 * [2 paper awards at NAACL 2025](https://2025.naacl.org/blog/best-papers/): Best Theme Paper Award for [WorldCuisines](https://arxiv.org/abs/2410.12705) and Outstanding Paper Award for [IrokoBench](https://arxiv.org/abs/2406.03368)
 * 4 papers accepted at NAACL 2025: [IrokoBench](https://arxiv.org/abs/2406.03368), [AfriHate](https://arxiv.org/abs/2501.08284), [WorldCuisines](https://arxiv.org/abs/2410.12705), and [Does Generative AI speak Nigerian-Pidgin?](https://arxiv.org/abs/2404.19442)
 * 1 paper accepted at TMLR 2024: [The Responsible LLM Cheatsheet](https://arxiv.org/abs/2406.16746)
