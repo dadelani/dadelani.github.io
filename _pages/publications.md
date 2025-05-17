@@ -3,8 +3,31 @@ title: "Publications [(Google Scholar Profile)](https://scholar.google.ca/citati
 permalink: /publications/
 author_profile: true
 ---
+
+*Lab members in **Bold***
+
 2025
 ------
+<b>[AfroBench: How Good are Large Language Models on African Languages?](https://arxiv.org/abs/2311.07978)</b> <br> 
+<b>Jessica Ojo</b>, Odunayo Ogundepo, Akintunde Oladipo, Kelechi Ogueji, Jimmy Lin, Pontus Stenetorp, <b>David Ifeoluwa Adelani</b>
+ <em>. In ACL Findings, 2025</em>.
+
+<b>[INJONGO: A Multicultural Intent Detection and Slot-filling Dataset for 16 African Languages](https://arxiv.org/abs/2502.09814)</b> <br> 
+<b>Hao Yu</b>, Jesujoba O. Alabi, Andiswa Bukula, Jian Yun Zhuang, En-Shiun Annie Lee, Tadesse Kebede Guge, Israel Abebe Azime, Happy Buzaaba, ..., Dietrich Klakow, <b>David Ifeoluwa Adelani</b>
+ <em>. In ACL, 2025</em>.
+
+<b>[Warmup Generations: A Task-Agnostic Approach for Guiding Sequence-to-Sequence Learning with Unsupervised Initial State Generation](https://arxiv.org/abs/2502.12304)</b> <br> 
+<b>Senyu Li</b>, Zipeng Sun, Jiayi Wang, Xue Liu, Pontus Stenetorp, Siva Reddy, <b>David Ifeoluwa Adelani</b>
+ <em>. In ACL, 2025</em>.
+
+<b>[Global MMLU: Understanding and Addressing Cultural and Linguistic Biases in Multilingual Evaluation](https://arxiv.org/abs/2412.03304)</b> <br> 
+Shivalika Singh, Angelika Romanou, Clémentine Fourrier, <b>David Ifeoluwa Adelani</b>, Jian Gang Ngui, Daniel Vila-Suero, ..., Marzieh Fadaee, Beyza Ermis, Sara Hooker
+ <em>. In ACL, 2025</em>.
+
+<b>[BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://arxiv.org/abs/2502.11926)</b> <br> 
+<b>David Ifeoluwa Adelani</b>, Shamsuddeen Hassan Muhammad, Nedjma Ousidhoum, Idris Abdulmumin, Jan Philip Wahle, Terry Ruas, Meriem Beloucif, Christine de Kock, Nirmal Surange, Daniela Teodorescu, Ibrahim Said Ahmad, <b>David Ifeoluwa Adelani</b>, ..., Saif M. Mohammad
+ <em>. In ACL, 2025</em>.
+ 
 <b>[IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models](https://aclanthology.org/2025.naacl-long.139/)</b> <br> 
 <b>David Ifeoluwa Adelani</b>, Jessica Ojo, Israel Abebe Azime, Jian Yun Zhuang, Jesujoba Oluwadara Alabi, Xuanli He, Millicent Ochieng, Sara Hooker, Andiswa Bukula, En-Shiun Annie Lee , ..., Pontus Stenetorp
  <em>. In NAACL, 2025</em>.
