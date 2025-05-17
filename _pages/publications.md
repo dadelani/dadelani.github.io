@@ -30,11 +30,11 @@ Shivalika Singh, Angelika Romanou, Clémentine Fourrier, <b>David Ifeoluwa Adela
  
 <b>[IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models](https://aclanthology.org/2025.naacl-long.139/)</b> <br> 
 <b>David Ifeoluwa Adelani</b>, Jessica Ojo, Israel Abebe Azime, Jian Yun Zhuang, Jesujoba Oluwadara Alabi, Xuanli He, Millicent Ochieng, Sara Hooker, Andiswa Bukula, En-Shiun Annie Lee , ..., Pontus Stenetorp
- <em>. In NAACL, 2025</em>. <span style="color: red; font-weight: bold;">🏆 Outstanding Paper Award </span>
+ <em>. In NAACL, 2025</em>. <span style="color: red; font-weight: bold;"> Outstanding Paper Award 🏆 </span>
 
 <b>[WorldCuisines: A Massive-Scale Benchmark for Multilingual and Multicultural Visual Question Answering on Global Cuisines](https://aclanthology.org/2025.naacl-long.167/)</b> <br> 
 Genta Indra Winata, Frederikus Hudi, Patrick Amadeus Irawan, David Anugraha, Rifki Afina Putri, ..., <b>David Ifeoluwa Adelani</b>, En-Shiun Annie Lee, Shogo Okada, Ayu Purwarianti, Alham Fikri Aji, Taro Watanabe, Derry Tanti Wijaya, Alice Oh, Chong-Wah Ngo
- <em>. In NAACL, 2025</em>. <span style="color: red; font-weight: bold;">🏆 Best Theme Paper Award </span>
+ <em>. In NAACL, 2025</em>. <span style="color: red; font-weight: bold;"> Best Theme Paper Award 🏆</span>
 
 <b>[AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages](https://aclanthology.org/2025.naacl-long.92/)</b> <br> 
 Shamsuddeen Hassan Muhammad, Idris Abdulmumin, Abinew Ali Ayele, <b>David Ifeoluwa Adelani</b> ... et al
@@ -92,7 +92,7 @@ Odunayo Ogundepo, Tajuddeen R. Gwadabe, Clara E. Rivera, Jonathan H. Clark, Seba
 Yihong Chen, Kelly Marchisio, Roberta Raileanu, <b>David Ifeoluwa Adelani</b>, Pontus Stenetorp, Sebastian Riedel, and Mikel Artetxe <em>. In NeurIPS, 2023</em>.
 
 <b>[MasakhaNEWS: News Topic Classification for African languages](https://arxiv.org/abs/2304.09972)</b> <br> 
-<b>David Ifeoluwa Adelani</b>, Marek Masiak, Israel Abebe Azime, Jesujoba O. Alabi, Atnafu Lambebo Tonja, Christine Mwase, Odunayo Ogundepo, Bonaventure F. P. Dossou, Akintunde Oladipo, ..., and Pontus Stenetorp <em>. In IJCNLP-AACL, 2023 & AfricaNLP Workshop 2023</em>.
+<b>David Ifeoluwa Adelani</b>, Marek Masiak, Israel Abebe Azime, Jesujoba O. Alabi, Atnafu Lambebo Tonja, Christine Mwase, Odunayo Ogundepo, Bonaventure F. P. Dossou, Akintunde Oladipo, ..., and Pontus Stenetorp <em>. In IJCNLP-AACL, 2023 & AfricaNLP Workshop 2023</em>. <span style="color: red; font-weight: bold;"> Area Chair Award 🏆</span>
 
 <b>[MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African Languages](https://arxiv.org/abs/2305.13989)</b> <br> 
 Cheikh M. Bamba Dione, <b>David Ifeoluwa Adelani</b>, Peter Nabende, Jesujoba Alabi, Thapelo Sindane, ..., and Dietrich Klakow <em>. In ACL, 2023</em>.
@@ -118,7 +118,7 @@ Hugo Laurençon, Lucile Saulnier, Thomas Wang, Christopher Akiki,..., <b>David I
 <b>David Ifeoluwa Adelani</b>, Graham Neubig, Sebastian Ruder, Shruti Rijhwani, Michael Beukman, Chester Palen-Michel, Constantine Lignos, Jesujoba O. Alabi, Shamsuddeen H. Muhammad, Peter Nabende, ..., Dietrich Klakow <em>. In EMNLP 2022</em>. 
 
 <b>[Adapting pre-trained language models to African languages via multilingual adaptive fine-tuning](https://arxiv.org/abs/2204.06487)</b> <br> 
-Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, Marius Mosbach, and Dietrich Klakow <em>. In COLING, 2022</em>. 
+Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, Marius Mosbach, and Dietrich Klakow <em>. In COLING, 2022</em>. <span style="color: red; font-weight: bold;"> Best Paper Award (Global Challenges) 🏆</span>
 
 <b>[Few-Shot Pidgin Text Adaptation via Contrastive Fine-Tuning](https://aclanthology.org/2022.coling-1.377/))</b> <br> 
 Ernie Chang, Jesujoba O. Alabi, <b>David Ifeoluwa Adelani</b>, and Vera Demberg <em>. In COLING, 2022</em>. 
