@@ -25,7 +25,7 @@ Shivalika Singh, Angelika Romanou, Clémentine Fourrier, <b>David Ifeoluwa Adela
  <em>. In ACL, 2025</em>.
 
 <b>[BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://arxiv.org/abs/2502.11926)</b> <br> 
-<b>David Ifeoluwa Adelani</b>, Shamsuddeen Hassan Muhammad, Nedjma Ousidhoum, Idris Abdulmumin, Jan Philip Wahle, Terry Ruas, Meriem Beloucif, Christine de Kock, Nirmal Surange, Daniela Teodorescu, Ibrahim Said Ahmad, <b>David Ifeoluwa Adelani</b>, ..., Saif M. Mohammad
+Shamsuddeen Hassan Muhammad, Nedjma Ousidhoum, Idris Abdulmumin, Jan Philip Wahle, Terry Ruas, Meriem Beloucif, Christine de Kock, Nirmal Surange, Daniela Teodorescu, Ibrahim Said Ahmad, <b>David Ifeoluwa Adelani</b>, ..., Saif M. Mohammad
  <em>. In ACL, 2025</em>.
  
 <b>[IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models](https://aclanthology.org/2025.naacl-long.139/)</b> <br> 
