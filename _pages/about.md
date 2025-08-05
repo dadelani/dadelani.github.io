@@ -12,7 +12,7 @@ redirect_from:
 
 News
 ======
-* 1 paper accepted at ASRU 2025: [mSTEB](https://arxiv.org/abs/2506.08400): Multilingual Eval. of LLMs on Speech and Text Tasks
+* 1 paper accepted at ASRU 2025: [mSTEB](https://arxiv.org/abs/2506.08400): Multilingual Eval. of LLMs on Speech and Text
 * 2 paper awards at [ACL 2025](https://2025.aclweb.org/program/awards/): [BRIGHTER](https://arxiv.org/abs/2502.11926) got a Best Resource Paper Award and [SemEval-2025 task 11: Shared task based on BRIGHTER](https://arxiv.org/abs/2503.07269) got the Best Task Award
 * 1 paper accepted at COLM 2025: [Fleurs-SLU](https://arxiv.org/abs/2501.06117)
 * 1 paper accepted at Interspeech 2025: [NaijaVoices](https://arxiv.org/abs/2505.20564)
