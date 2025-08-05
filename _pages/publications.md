@@ -16,13 +16,14 @@ Luel Hagos Beyene, Vivek Verma, Min Ma, Jesujoba O. Alabi, Fabian David Schmidt,
 <b>Jessica Ojo</b>, Odunayo Ogundepo, Akintunde Oladipo, Kelechi Ogueji, Jimmy Lin, Pontus Stenetorp, <b>David Ifeoluwa Adelani</b>
  <em>. In ACL Findings, 2025</em>.
 
- <b>[AfroBench: How Good are Large Language Models on African Languages?](https://arxiv.org/abs/2311.07978)</b> <br> 
-<b>Jessica Ojo</b>, Odunayo Ogundepo, Akintunde Oladipo, Kelechi Ogueji, Jimmy Lin, Pontus Stenetorp, <b>David Ifeoluwa Adelani</b>
- <em>. In ACL Findings, 2025</em>.
+ <b>[The NaijaVoices Dataset: Cultivating Large-Scale, High-Quality, Culturally-Rich Speech Data for African Languages](https://arxiv.org/abs/2505.20564)</b> <br> 
+Chris Emezue, NaijaVoices Community, Busayo Awobade, Abraham Owodunni, Handel Emezue, Gloria Monica Tobechukwu Emezue, Nefertiti Nneoma Emezue, Sewade Ogun, Bunmi Akinremi, <b>David Ifeoluwa Adelani</b>, Chris Pal
+ <em>. In Interspeech, 2025</em>.
 
  <b>[AfroBench: How Good are Large Language Models on African Languages?](https://arxiv.org/abs/2311.07978)</b> <br> 
 <b>Jessica Ojo</b>, Odunayo Ogundepo, Akintunde Oladipo, Kelechi Ogueji, Jimmy Lin, Pontus Stenetorp, <b>David Ifeoluwa Adelani</b>
  <em>. In ACL Findings, 2025</em>.
+ 
 <b>[AfroBench: How Good are Large Language Models on African Languages?](https://arxiv.org/abs/2311.07978)</b> <br> 
 <b>Jessica Ojo</b>, Odunayo Ogundepo, Akintunde Oladipo, Kelechi Ogueji, Jimmy Lin, Pontus Stenetorp, <b>David Ifeoluwa Adelani</b>
  <em>. In ACL Findings, 2025</em>.
