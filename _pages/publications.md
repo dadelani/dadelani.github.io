@@ -8,6 +8,21 @@ author_profile: true
 
 2025
 ------
+<b>[mSTEB: Massively Multilingual Evaluation of LLMs on Speech and Text Tasks](https://arxiv.org/abs/2506.08400)</b> <br> 
+Luel Hagos Beyene, Vivek Verma, Min Ma, Jesujoba O. Alabi, Fabian David Schmidt, Joyce Nakatumba-Nabende, <b>David Ifeoluwa Adelani</b>
+ <em>. In ASRU, 2025</em>.
+
+ <b>[AfroBench: How Good are Large Language Models on African Languages?](https://arxiv.org/abs/2311.07978)</b> <br> 
+<b>Jessica Ojo</b>, Odunayo Ogundepo, Akintunde Oladipo, Kelechi Ogueji, Jimmy Lin, Pontus Stenetorp, <b>David Ifeoluwa Adelani</b>
+ <em>. In ACL Findings, 2025</em>.
+
+ <b>[AfroBench: How Good are Large Language Models on African Languages?](https://arxiv.org/abs/2311.07978)</b> <br> 
+<b>Jessica Ojo</b>, Odunayo Ogundepo, Akintunde Oladipo, Kelechi Ogueji, Jimmy Lin, Pontus Stenetorp, <b>David Ifeoluwa Adelani</b>
+ <em>. In ACL Findings, 2025</em>.
+
+ <b>[AfroBench: How Good are Large Language Models on African Languages?](https://arxiv.org/abs/2311.07978)</b> <br> 
+<b>Jessica Ojo</b>, Odunayo Ogundepo, Akintunde Oladipo, Kelechi Ogueji, Jimmy Lin, Pontus Stenetorp, <b>David Ifeoluwa Adelani</b>
+ <em>. In ACL Findings, 2025</em>.
 <b>[AfroBench: How Good are Large Language Models on African Languages?](https://arxiv.org/abs/2311.07978)</b> <br> 
 <b>Jessica Ojo</b>, Odunayo Ogundepo, Akintunde Oladipo, Kelechi Ogueji, Jimmy Lin, Pontus Stenetorp, <b>David Ifeoluwa Adelani</b>
  <em>. In ACL Findings, 2025</em>.
