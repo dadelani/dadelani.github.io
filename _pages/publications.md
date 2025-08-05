@@ -4,16 +4,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-*Lab members in **Bold***
+*Lab members in **Bold*** (including interns)
 
 2025
 ------
 <b>[mSTEB: Massively Multilingual Evaluation of LLMs on Speech and Text Tasks](https://arxiv.org/abs/2506.08400)</b> <br> 
-Luel Hagos Beyene, Vivek Verma, Min Ma, Jesujoba O. Alabi, Fabian David Schmidt, Joyce Nakatumba-Nabende, <b>David Ifeoluwa Adelani</b>
+<b>Luel Hagos Beyene</b>, <b>Vivek Verma</b>, Min Ma, Jesujoba O. Alabi, <b>Fabian David Schmidt</b>, Joyce Nakatumba-Nabende, <b>David Ifeoluwa Adelani</b>
  <em>. In ASRU, 2025</em>.
 
  <b>[Fleurs-SLU: A Massively Multilingual Benchmark for Spoken Language Understanding](https://arxiv.org/abs/2501.06117)</b> <br> 
-Fabian David Schmidt, Ivan Vulić, Goran Glavaš, <b>David Ifeoluwa Adelani</b>
+<b>Fabian David Schmidt</b>, Ivan Vulić, Goran Glavaš, <b>David Ifeoluwa Adelani</b>
  <em>. In COLM, 2025</em>.
 
  <b>[The NaijaVoices Dataset: Cultivating Large-Scale, High-Quality, Culturally-Rich Speech Data for African Languages](https://arxiv.org/abs/2505.20564)</b> <br> 
@@ -22,7 +22,7 @@ Chris Emezue, NaijaVoices Community, Busayo Awobade, Abraham Owodunni, Handel Em
 
  <b>[SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection](https://arxiv.org/abs/2503.07269)</b> <br> 
 Shamsuddeen Hassan Muhammad, Nedjma Ousidhoum, Idris Abdulmumin, Seid Muhie Yimam, Jan Philip Wahle, Terry Ruas, Meriem Beloucif, Christine De Kock, Tadesse Destaw Belay, Ibrahim Said Ahmad, Nirmal Surange, Daniela Teodorescu, <b> David Ifeoluwa Adelani</b>, Alham Fikri Aji, Felermino Ali, Vladimir Araujo, Abinew Ali Ayele, Oana Ignat, Alexander Panchenko, Yi Zhou, Saif M. Mohammad
- <em>. In SemEval Workshop, 2025</em>.
+ <em>. In SemEval Workshop, 2025</em>. <span style="color: red; font-weight: bold;"> Best Task Award 🏆 </span>
  
 <b>[AfroBench: How Good are Large Language Models on African Languages?](https://arxiv.org/abs/2311.07978)</b> <br> 
 <b>Jessica Ojo</b>, Odunayo Ogundepo, Akintunde Oladipo, Kelechi Ogueji, Jimmy Lin, Pontus Stenetorp, <b>David Ifeoluwa Adelani</b>
@@ -42,7 +42,7 @@ Shivalika Singh, Angelika Romanou, Clémentine Fourrier, <b>David Ifeoluwa Adela
 
 <b>[BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages](https://arxiv.org/abs/2502.11926)</b> <br> 
 Shamsuddeen Hassan Muhammad, Nedjma Ousidhoum, Idris Abdulmumin, Jan Philip Wahle, Terry Ruas, Meriem Beloucif, Christine de Kock, Nirmal Surange, Daniela Teodorescu, Ibrahim Said Ahmad, <b>David Ifeoluwa Adelani</b>, ..., Saif M. Mohammad
- <em>. In ACL, 2025</em>.
+ <em>. In ACL, 2025</em>. <span style="color: red; font-weight: bold;"> Best Resource Paper Award 🏆 </span>
  
 <b>[IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models](https://aclanthology.org/2025.naacl-long.139/)</b> <br> 
 <b>David Ifeoluwa Adelani</b>, Jessica Ojo, Israel Abebe Azime, Jian Yun Zhuang, Jesujoba Oluwadara Alabi, Xuanli He, Millicent Ochieng, Sara Hooker, Andiswa Bukula, En-Shiun Annie Lee , ..., Pontus Stenetorp
