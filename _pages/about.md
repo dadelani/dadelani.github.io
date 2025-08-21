@@ -12,6 +12,7 @@ redirect_from:
 
 News
 ======
+* 5 papers accepted at EMNLP 2025: [SSA-COMET](https://www.arxiv.org/abs/2506.04557), [AfriDOC-MT](https://arxiv.org/abs/2501.06374), [African NLP survey](https://arxiv.org/abs/2505.21315), [TransWebLLM](https://arxiv.org/abs/2502.13252), and [AfroXLMR-Social](https://arxiv.org/abs/2503.18247)
 * 1 paper accepted at ASRU 2025: [mSTEB](https://arxiv.org/abs/2506.08400): Multilingual Eval. of LLMs on Speech and Text
 * 2 paper awards at [ACL 2025](https://2025.aclweb.org/program/awards/): [BRIGHTER](https://arxiv.org/abs/2502.11926) got a Best Resource Paper Award and [SemEval-2025 task 11: Shared task based on BRIGHTER](https://arxiv.org/abs/2503.07269) got the Best Task Award
 * 1 paper accepted at COLM 2025 and one the WMDQS workshop: [Fleurs-SLU](https://arxiv.org/abs/2501.06117)
