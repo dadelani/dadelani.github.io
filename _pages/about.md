@@ -41,11 +41,16 @@ News
 Students
 ======
 * PhD students:
+  * [Marie Maltais](https://mila.quebec/en/directory/marie-maltais): 2024 -
+  * [Damaris Stephanie Ndjebayi](https://mila.quebec/en/directory/damaris-stephanie-ndjebayi): 2025 -
+  * [David Guzmán Ramírez](https://mila.quebec/en/directory/david-guzman-ramirez): 2025 -
   * [Senyu Li](https://mila.quebec/en/directory/senyu-li-li): 2024 -
 * MSc students:
+  * [Victor Akinode]()
   * [Jessica Ojo](https://mila.quebec/en/directory/jessica-ojo): 2024 -
   * [Hao Yu](https://yhpeter.github.io/): 2024 - 
 * Interns:
+  *  
   * [Fabian David Schmidt](https://fdschmidt93.github.io/) (PhD student at University of Würzburg): Sep - Dec, 2024
 
 
