@@ -41,7 +41,7 @@ News
 Students
 ======
 * PhD students:
-  * [Marie Maltais](https://mila.quebec/en/directory/marie-maltais): 2024 -
+  * [Marie Maltais](https://mila.quebec/en/directory/marie-maltais): 2025 -
   * [Damaris Stephanie Ndjebayi](https://mila.quebec/en/directory/damaris-stephanie-ndjebayi): 2025 -
   * [David Guzmán Ramírez](https://mila.quebec/en/directory/david-guzman-ramirez): 2025 -
   * [Senyu Li](https://mila.quebec/en/directory/senyu-li-li): 2024 -
@@ -50,7 +50,14 @@ Students
   * [Jessica Ojo](https://mila.quebec/en/directory/jessica-ojo): 2024 -
   * [Hao Yu](https://yhpeter.github.io/): 2024 - 
 * Interns:
-  *  
+  * [Gaganpreet Jhajj]() (MSc student at Athabasca University): Sep - Dec, 2025
+  * [Jan Christian Blaise Cruz](https://blaisecruz.com/) (PhD student at MBZUAI): Sep - Dec, 2025
+  * [Yinhan Lu](https://mila.quebec/en/directory/yinhan-lu) (UG at McGill): Sep - Dec, 2025
+  * [Kosei Uemura](https://mila.quebec/en/directory/kosei-uemura) (UG at UofT): May - Aug, 2025
+  * [Tianyi Xu](https://mila.quebec/en/directory/tianyi-xu-xu) (UG at McGill): Jan - Oct, 2025
+  * [Vivek Verma](https://mila.quebec/en/directory/vivek-verma) (MSc at Udem): Jan - Aug, 2025
+  * [Jonah Dauvet](https://mila.quebec/en/directory/jonah-dauvet) (UG at McGill): Jan - Jun, 2025
+  * [Sifan Liu](https://mila.quebec/en/directory/sifan-liu) (UG at McGill): Jan - May, 2025
   * [Fabian David Schmidt](https://fdschmidt93.github.io/) (PhD student at University of Würzburg): Sep - Dec, 2024
 
 
