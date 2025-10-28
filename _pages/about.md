@@ -77,6 +77,10 @@ Research interests
   * Speech representation learning
   * Speech translation
   * AudioLLMs
+* Vision Language Model
+  * Multilingual VQA and reasoning
+  * Multicultural understanding
+  * Multilingual VLMs adaptation
 
 
 Favourite Quote
