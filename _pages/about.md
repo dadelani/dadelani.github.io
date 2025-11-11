@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* 1 paper accepted at IJCNLP-AACL: [Ibom-NLP](https://arxiv.org/abs/2511.06531)
 * 4 workshop papers co-located with EMNLP (MRL & WMT): [Speech translation for LRLs](https://aclanthology.org/2025.mrl-main.11/), [multilingual re-ranker](https://aclanthology.org/2025.mrl-main.42/), [SSA-MTE African Challenge Set](https://aclanthology.org/2025.wmt-1.65/), and [WMT metrics shared task](https://aclanthology.org/2025.wmt-1.24/)
 * 5 papers accepted at EMNLP 2025: [SSA-COMET](https://www.arxiv.org/abs/2506.04557), [AfriDOC-MT](https://arxiv.org/abs/2501.06374), [African NLP survey](https://arxiv.org/abs/2505.21315), [TransWebLLM](https://arxiv.org/abs/2502.13252), and [AfroXLMR-Social](https://arxiv.org/abs/2503.18247)
 * 1 paper accepted at ASRU 2025: [mSTEB](https://arxiv.org/abs/2506.08400): Multilingual Eval. of LLMs on Speech and Text
