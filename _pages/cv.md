@@ -55,7 +55,7 @@ Service and leadership
   * AfricaNLP at ICLR 2024, 2023, 2022
   * Multilingual Representation Learning at EMNLP 2024, 2023
   * Cross-Cultural Considerations in NLP Workshop 2023
-  * Director at [Masakhane Research Foundation](https://www.masakhane.io/) --- grassroots NLP community for Africa}
+  * Foundational Director at [Masakhane Research Foundation](https://www.masakhane.io/) --- grassroots NLP community for Africa}
  
 Full CV
 ====== 
