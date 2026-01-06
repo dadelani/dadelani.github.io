@@ -13,6 +13,7 @@ redirect_from:
 
 News
 ======
+* 2 papers accepted at EACL 2026: [MERLIN](https://arxiv.org/abs/2509.08105) and [AfriMTEB & AfriE5](https://arxiv.org/abs/2510.23896)
 * November 2025: Awarded [Schmidt Sciences AI2050 Early Career Fellow](https://ai2050.schmidtsciences.org/fellows/)
 * 1 paper accepted at IJCNLP-AACL: [Ibom-NLP](https://arxiv.org/abs/2511.06531)
 * 4 workshop papers co-located with EMNLP (MRL & WMT): [Speech translation for LRLs](https://aclanthology.org/2025.mrl-main.11/), [multilingual re-ranker](https://aclanthology.org/2025.mrl-main.42/), [SSA-MTE African Challenge Set](https://aclanthology.org/2025.wmt-1.65/), and [WMT metrics shared task](https://aclanthology.org/2025.wmt-1.24/)
@@ -24,16 +25,18 @@ News
 * 5 papers accepted at ACL 2025: [Warmup Generations](https://arxiv.org/abs/2502.12304), [Injongo](https://arxiv.org/abs/2502.09814), [AfroBench](https://arxiv.org/abs/2311.07978), [GlobalMMLU](https://arxiv.org/abs/2412.03304), and [BRIGHTER](https://arxiv.org/abs/2502.11926)
 * [2 paper awards at NAACL 2025](https://2025.naacl.org/blog/best-papers/): Best Theme Paper Award for [WorldCuisines](https://arxiv.org/abs/2410.12705) and Outstanding Paper Award for [IrokoBench](https://arxiv.org/abs/2406.03368)
 * 4 papers accepted at NAACL 2025: [IrokoBench](https://arxiv.org/abs/2406.03368), [AfriHate](https://arxiv.org/abs/2501.08284), [WorldCuisines](https://arxiv.org/abs/2410.12705), and [Does Generative AI speak Nigerian-Pidgin?](https://arxiv.org/abs/2404.19442)
+
+<!---
 * 1 paper accepted at TMLR 2024: [The Responsible LLM Cheatsheet](https://arxiv.org/abs/2406.16746)
 * 1 paper accepted at NeurIPS 2024: [CVQA](https://arxiv.org/abs/2406.05967)
-* 3 paper accepted at EMNLP 2024: [MINERS](https://arxiv.org/abs/2406.07424), [MT Hallucination Detection](https://arxiv.org/abs/2407.16470) and [YORÙLECT](https://arxiv.org/abs/2406.19564)
+* 3 papers accepted at EMNLP 2024: [MINERS](https://arxiv.org/abs/2406.07424), [MT Hallucination Detection](https://arxiv.org/abs/2407.16470) and [YORÙLECT](https://arxiv.org/abs/2406.19564)
 * 2 papers accepted at WMT 2024: [AfriCOMETv1.1](https://aclanthology.org/2024.wmt-1.36/) and [Metrics shared task findings](https://aclanthology.org/2024.wmt-1.2/)
 * 1 paper accepted at NAACL 2024: [AfriMTE & AfriCOMET](https://arxiv.org/abs/2311.09828)
 * 2 papers accepted at LREC-COLING 2024: [ÌròyìnSpeech](https://arxiv.org/abs/2307.16071) and [Mitigating Translationese in LRLs](https://aclanthology.org/2024.lrec-main.992/)
 * 1 paper accepted at EACL 2024: [SIB-200](https://arxiv.org/abs/2309.07445)
 * 7 papers accepted at AfricaNLP, WOAH & MRL workshops: [Yoruba ADR (YAD)](https://openreview.net/forum?id=gDm8A1uEN1), [AngOFA](https://arxiv.org/abs/2404.02534), [EkoHate](https://arxiv.org/abs/2404.18180), [AfriHG](https://openreview.net/forum?id=fw7g7pNUDl), [NaijaRC](https://arxiv.org/abs/2308.09768), [McGill Shared Task](https://aclanthology.org/2024.mrl-1.28/), [LLM on Brazillian languages](https://arxiv.org/abs/2404.18286)
   
-<!---
+
 * 4 papers accepted at EMNLP 2023: [AfriSenti](https://arxiv.org/abs/2302.08956), [AfriTeVa V2](https://aclanthology.org/2023.emnlp-main.11/), [AfriQA](https://arxiv.org/abs/2305.06897), [XTREME-UP](https://arxiv.org/abs/2305.11938)
 * 1 paper accepted at NeurIPS 2023: [Improving Language Plasticity via Pretraining with Active Forgetting](https://arxiv.org/abs/2307.01163)
 * 1 paper accepted at AACL 2023: [MasakhaNEWS](https://arxiv.org/abs/2304.09972)
