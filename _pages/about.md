@@ -16,8 +16,8 @@ News
 * 2 papers accepted at LREC 2026: [Uhura](https://arxiv.org/abs/2412.00948) and [YoNER]()
 * 2 papers accepted at EACL 2026: [MERLIN](https://arxiv.org/abs/2509.08105) and [AfriMTEB & AfriE5](https://arxiv.org/abs/2510.23896)
 * November 2025: Awarded [Schmidt Sciences AI2050 Early Career Fellow](https://ai2050.schmidtsciences.org/fellows/)
-* 1 paper accepted at IJCNLP-AACL: [Ibom-NLP](https://arxiv.org/abs/2511.06531)
-* 4 workshop papers co-located with EMNLP (MRL & WMT): [Speech translation for LRLs](https://aclanthology.org/2025.mrl-main.11/), [multilingual re-ranker](https://aclanthology.org/2025.mrl-main.42/), [SSA-MTE African Challenge Set](https://aclanthology.org/2025.wmt-1.65/), and [WMT metrics shared task](https://aclanthology.org/2025.wmt-1.24/)
+* 1 paper accepted at IJCNLP-AACL 2025: [Ibom-NLP](https://arxiv.org/abs/2511.06531)
+* 4 workshop papers co-located with EMNLP 2025 (MRL & WMT): [Speech translation for LRLs](https://aclanthology.org/2025.mrl-main.11/), [multilingual re-ranker](https://aclanthology.org/2025.mrl-main.42/), [SSA-MTE African Challenge Set](https://aclanthology.org/2025.wmt-1.65/), and [WMT metrics shared task](https://aclanthology.org/2025.wmt-1.24/)
 * 5 papers accepted at EMNLP 2025: [SSA-COMET](https://www.arxiv.org/abs/2506.04557), [AfriDOC-MT](https://arxiv.org/abs/2501.06374), [African NLP survey](https://arxiv.org/abs/2505.21315), [TransWebLLM](https://arxiv.org/abs/2502.13252), and [AfroXLMR-Social](https://arxiv.org/abs/2503.18247)
 * 1 paper accepted at ASRU 2025: [mSTEB](https://arxiv.org/abs/2506.08400): Multilingual Eval. of LLMs on Speech and Text
 * 2 paper awards at [ACL 2025](https://2025.aclweb.org/program/awards/): [BRIGHTER](https://arxiv.org/abs/2502.11926) got a Best Resource Paper Award and [SemEval-2025 task 11: Shared task based on BRIGHTER](https://arxiv.org/abs/2503.07269) got the Best Task Award
