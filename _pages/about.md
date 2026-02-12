@@ -53,9 +53,10 @@ Students
   * [David Guzmán Ramírez](https://mila.quebec/en/directory/david-guzman-ramirez): 2025 -
   * [Senyu Li](https://mila.quebec/en/directory/senyu-li-li): 2024 -
 * MSc students:
-  * [Victor Akinode]()
+  * [Henok B Ademtew](https://mila.quebec/en/directory/henok-ademtew)
+  * [Victor Akinode](https://mila.quebec/en/directory/victor-akinode)
   * [Jessica Ojo](https://mila.quebec/en/directory/jessica-ojo): 2024 -
-  * [Hao Yu](https://yhpeter.github.io/): 2024 - 
+  * [Hao Yu](https://mila.quebec/en/directory/peter-yu): 2024 - 
 * Interns:
   * [Gaganpreet Jhajj]() (MSc student at Athabasca University): Sep - Dec, 2025
   * [Jan Christian Blaise Cruz](https://blaisecruz.com/) (PhD student at MBZUAI): Sep - Dec, 2025
