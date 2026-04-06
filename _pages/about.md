@@ -14,6 +14,8 @@ redirect_from:
 
 News
 ======
+* 2 papers accepted at ACL 2026: [AfriqueLLM](https://arxiv.org/abs/2601.06395) and [Afri-MCQA](https://arxiv.org/abs/2601.05699)
+
 * March 2026: We welcome [Dr. Yejin Jeon](https://sites.google.com/view/yejin-jeon/bio), new postdoc working on speech processing
 * 2 papers accepted at LREC 2026: [Uhura QA benchmarks](https://arxiv.org/abs/2412.00948) and [YoNER]()
 * 2 papers accepted at EACL 2026: [MERLIN](https://arxiv.org/abs/2509.08105) and [AfriMTEB & AfriE5](https://arxiv.org/abs/2510.23896)
