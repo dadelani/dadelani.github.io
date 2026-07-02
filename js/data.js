@@ -39,9 +39,9 @@ const GREETINGS = [
 
 /* Headline numbers (kept conservative & verifiable from the news feed) */
 const STATS = [
-  { value: 18, suffix: "+", label: "Lab members" },
-  { value: 100, suffix: "+", label: "Languages studied" },
-  { value: 30, suffix: "+", label: "Papers since 2025" },
+  { value: 15, suffix: "+", label: "Lab members" },
+  { value: 205, suffix: "+", label: "Languages studied" },
+  { value: 50, suffix: "+", label: "Papers since 2024" },
   { value: 6, suffix: "", label: "Best-paper awards" },
 ];
 
@@ -88,19 +88,21 @@ const RESEARCH = [
 /* Selected projects & benchmarks (real outputs referenced in the news feed) */
 const PROJECTS = [
   { name: "AfriqueLLM", tag: "Model", note: "Open LLMs adapted for African languages · ACL 2026", url: "https://arxiv.org/abs/2601.06395" },
-  { name: "OpenBibleTTS", tag: "Speech", note: "Large-scale TTS resources for 37 low-resource languages", url: "https://arxiv.org/abs/2606.09553" },
-  { name: "AfroBench", tag: "Benchmark", note: "How good are LLMs on African languages? · ACL Findings 2025", url: "https://arxiv.org/abs/2311.07978" },
-  { name: "IrokoBench", tag: "Benchmark", note: "Reasoning benchmark for African languages · Outstanding Paper, NAACL 2025", url: "https://aclanthology.org/2025.naacl-long.139/" },
   { name: "AfroXLMR", tag: "Model", note: "Multilingual encoder adapted to African languages", url: "https://huggingface.co/Davlan/afro-xlmr-large" },
+  { name: "AfroBench", tag: "Benchmark", note: "How good are LLMs on African languages? · ACL Findings 2025", url: "https://arxiv.org/abs/2311.07978" },
+  { name: "GlobalMMLU", tag: "Benchmark", note: "Cultural & linguistic biases in multilingual evaluation · ACL 2025", url: "https://arxiv.org/abs/2412.03304" },
+  { name: "IrokoBench", tag: "Benchmark", note: "Reasoning benchmark for African languages · Outstanding Paper, NAACL 2025", url: "https://aclanthology.org/2025.naacl-long.139/" },
+  { name: "MasakhaNER", tag: "Dataset", note: "Named entity recognition for African languages · TACL 2021", url: "https://arxiv.org/abs/2103.11811" },
+  { name: "NaijaVoices", tag: "Speech", note: "Large-scale speech data for Nigerian languages · Interspeech 2025", url: "https://arxiv.org/abs/2505.20564" },
+  { name: "OpenBibleTTS", tag: "Speech", note: "Large-scale TTS resources for 37 low-resource languages", url: "https://arxiv.org/abs/2606.09553" },
   { name: "SIB-200", tag: "Benchmark", note: "Topic classification for 200+ languages and dialects · EACL 2024", url: "https://arxiv.org/abs/2309.07445" },
   { name: "SSA-COMET", tag: "Metric", note: "MT evaluation for under-resourced African languages · EMNLP 2025", url: "https://arxiv.org/abs/2506.04557" },
-  { name: "MasakhaNER", tag: "Dataset", note: "Named entity recognition for African languages · TACL 2021", url: "https://arxiv.org/abs/2103.11811" },
-  { name: "GlobalMMLU", tag: "Benchmark", note: "Cultural & linguistic biases in multilingual evaluation · ACL 2025", url: "https://arxiv.org/abs/2412.03304" },
-  { name: "NaijaVoices", tag: "Speech", note: "Large-scale speech data for Nigerian languages · Interspeech 2025", url: "https://arxiv.org/abs/2505.20564" },
+
 ];
 
 /* News feed, newest first */
 const NEWS = [
+  { date: "2026", body: "Honored to serve as Program Chair for <strong>ACL 2027</strong>: Kyoto, Japan" },
   { date: "2026", body: "2 papers accepted at <strong>ACL 2026</strong>: AfriqueLLM and Afri-MCQA." },
   { date: "Mar 2026", body: "We welcome <strong>Dr. Yejin Jeon</strong>, a new postdoc working on speech processing. 🎉" },
   { date: "2026", body: "2 papers accepted at <strong>LREC 2026</strong>: Uhura QA benchmarks and YoNER." },
@@ -128,7 +130,7 @@ const PEOPLE = [
       {
         name: "David Ifeoluwa Adelani",
         role: "Assistant Professor at McGill, Core Academic Member at Mila, Canada CIFAR AI Chair",
-        work: "Multilingual NLP and speech processing for low-resource languages.",
+        work: "Multilingual NLP and Multimodal LMs (Speech & Vision) for low-resource languages.",
         since: "2024–",
         from: "Nigeria",
         photo: "assets/people/david-adelani.png",
@@ -140,7 +142,7 @@ const PEOPLE = [
     id: "postdocs",
     title: "Postdocs",
     members: [
-      { name: "Yejin Jeon", role: "Postdoctoral Researcher", work: "Speech processing for underrepresented languages.", since: "2026–", from: "Korea", photo: "assets/people/yejin-jeon.jpg", links: { web: "https://sites.google.com/view/yejin-jeon-130124/about_1" } },
+      { name: "Yejin Jeon", role: "Postdoctoral Researcher", work: "Multilingual Speech Processing.", since: "2026–", from: "Korea", photo: "assets/people/yejin-jeon.jpg", links: { web: "https://sites.google.com/view/yejin-jeon-130124/about_1" } },
     ],
   },
   {
@@ -148,9 +150,9 @@ const PEOPLE = [
     title: "PhD Students",
     members: [
       { name: "Senyu Li", role: "PhD Student", work: "Multilingual language modelling.", since: "2024–", from: "China", photo: "assets/people/senyu-li.png", links: { web: "https://mila.quebec/en/directory/senyu-li-li" } },
-      { name: "Marie Maltais", role: "PhD Student", work: "Low-resource and Indigenous language NLP.", since: "2025–", from: "Canada", photo: "assets/people/marie-maltais.jpg", links: { web: "https://mila.quebec/en/directory/marie-maltais" } },
-      { name: "Damaris Stephanie Ndjebayi", role: "PhD Student", work: "NLP for African languages.", since: "2025–", from: "Cameroon", photo: "assets/people/damaris-ndjebayi.jpg", links: { web: "https://mila.quebec/en/directory/damaris-stephanie-ndjebayi" } },
-      { name: "David Guzmán Ramírez", role: "PhD Student", work: "Multilingual representation learning.", since: "2025–", from: "Mexico", photo: "assets/people/david-guzman.jpg", links: { web: "https://mila.quebec/en/directory/david-guzman-ramirez" } },
+      { name: "Marie Maltais", role: "PhD Student", work: "Speech for low-resource languages.", since: "2025–", from: "Canada", photo: "assets/people/marie-maltais.jpg", links: { web: "https://mila.quebec/en/directory/marie-maltais" } },
+      { name: "Damaris Stephanie Ndjebayi", role: "PhD Student", work: "Vision and Multicultural NLP", since: "2025–", from: "Cameroon", photo: "assets/people/damaris-ndjebayi.jpg", links: { web: "https://mila.quebec/en/directory/damaris-stephanie-ndjebayi" } },
+      { name: "David Guzmán Ramírez", role: "PhD Student", work: "Speech and NLP for Latin Americas.", since: "2025–", from: "Mexico", photo: "assets/people/david-guzman.jpg", links: { web: "https://mila.quebec/en/directory/david-guzman-ramirez" } },
     ],
   },
   {
@@ -158,9 +160,9 @@ const PEOPLE = [
     title: "Masters Students",
     members: [
       { name: "Jessica Ojo", role: "MSc Student", work: "Evaluation of LLMs for African languages.", since: "2024–", from: "Nigeria", photo: "assets/people/jessica-ojo.jpg", links: { web: "https://mila.quebec/en/directory/jessica-ojo" } },
-      { name: "Hao Yu", role: "MSc Student", work: "Multilingual machine translation.", since: "2024–", from: "China", photo: "assets/people/hao-yu.jpg", links: { web: "https://mila.quebec/en/directory/peter-yu" } },
-      { name: "Henok B. Ademtew", role: "MSc Student", work: "Speech and language technology for low-resource languages.", from: "Ethiopia", photo: "assets/people/henok-ademtew.jpg", links: { web: "https://mila.quebec/en/directory/henok-ademtew" } },
-      { name: "Victor Akinode", role: "MSc Student", work: "AI safety, multilingual NLP and LLMs for low-resource languages.", from: "Nigeria", photo: "assets/people/victor-akinode.jpg", links: { web: "https://mila.quebec/en/directory/victor-akinode" } },
+      { name: "Hao Yu", role: "MSc Student", work: "Multilingual LLM pre-training.", since: "2024–", from: "China", photo: "assets/people/hao-yu.jpg", links: { web: "https://mila.quebec/en/directory/peter-yu" } },
+      { name: "Henok B. Ademtew", role: "MSc Student", work: "Machine translation and VLMs.", from: "Ethiopia", photo: "assets/people/henok-ademtew.jpg", links: { web: "https://mila.quebec/en/directory/henok-ademtew" } },
+      { name: "Victor Akinode", role: "MSc Student", work: "AI safety and multilingual NLP.", from: "Nigeria", photo: "assets/people/victor-akinode.jpg", links: { web: "https://mila.quebec/en/directory/victor-akinode" } },
     ],
   },
   {
@@ -174,8 +176,12 @@ const PEOPLE = [
     id: "current-intern",
     title: "Current Interns",
     members: [
-      { name: "Yinhan Lu", role: "Intern · Undergrad, McGill", work: "NLP resources & evaluation.", since: "Sep–Dec 2025", from: "Japan", photo: "assets/people/yinhan-lu.jpg", links: { web: "https://mila.quebec/en/directory/yinhan-lu" } },
-      { name: "Tianyi Xu", role: "Intern · Undergrad, McGill", work: "Speech processing.", since: "Jan–Oct 2025", from: "Japan", photo: "assets/people/tianyi-xu.jpg", links: { web: "https://mila.quebec/en/directory/tianyi-xu-xu" } },
+      { name: "Tianyou Xie", role: "Intern · Undergrad, McGill", work: "Sentence embedding", since: "Jun–Aug 2026", from: "China", photo: "", links: { web: "https://mila.quebec/en/directory/tianyou-xie" } },
+      { name: "Nicolas Helmeyer", role: "Intern · Undergrad, McGill", work: "Long-context BERT model", since: "Jun–Aug 2026", from: "Venezuela", photo: "", links: { web: "https://mila.quebec/en/directory/nicolas-helmeyer" } },
+      { name: "Jessica Wang", role: "Intern · Undergrad, McGill", work: "LLM post-training", since: "May–Aug 2026", from: "Canada", photo: "", links: { web: "https://mila.quebec/en/directory/jessica-wang" } },
+      { name: "Luel Hagos Beyene", role: "Intern · PhD Student, NM-AIST & AIMS Rwanda", work: "Text-to-Speech", since: "May–Aug 2026", from: "Ethiopia", photo: "", links: { web: "https://mila.quebec/en/directory/luel-hagos-beyene" } },
+      { name: "Yinhan Lu", role: "Intern · Undergrad, McGill", work: "Machine translation", since: "Sep 2025 – Aug 2026", from: "China", photo: "assets/people/yinhan-lu.jpg", links: { web: "https://mila.quebec/en/directory/yinhan-lu" } },
+      { name: "Tianyi Xu", role: "Intern · Undergrad, McGill", work: "Multilingual math reasoning.", since: "Jan–Oct 2025", from: "China", photo: "assets/people/tianyi-xu.jpg", links: { web: "https://mila.quebec/en/directory/tianyi-xu-xu" } },
     ],
   },
 
@@ -183,15 +189,14 @@ const PEOPLE = [
     id: "interns-past",
     title: "Past Interns",
     members: [
+      { name: "Virginia Ceccatelli", role: "Intern · McGill, at Mila", work: "AI safety for speech.", since: "Jan–Jun 2026", from: "Italy", photo: "assets/people/virginia-ceccatelli.jpg" },
+      { name: "Juhyun Oh", role: "Intern · PhD Student, KAIST", work: "LLM output diversity", since: "Feb–May 2026", from: "Korea", photo: "", links: { web: "https://mila.quebec/en/directory/juhyun-oh" } },
       { name: "Gaganpreet Jhajj", role: "Intern · MSc, Athabasca University", work: "Multilingual NLP.", since: "Sep–Dec 2025", from: "Canada" },
       { name: "Jan Christian Blaise Cruz", role: "Intern · PhD, MBZUAI", work: "Low-resource language modelling.", since: "Sep–Dec 2025", from: "Philippines", photo: "assets/people/jan-cruz.jpg", links: { web: "https://blaisecruz.com/" } },
-      { name: "Yinhan Lu", role: "Intern · Undergrad, McGill", work: "NLP resources & evaluation.", since: "Sep–Dec 2025", from: "China", photo: "assets/people/yinhan-lu.jpg", links: { web: "https://mila.quebec/en/directory/yinhan-lu" } },
       { name: "Kosei Uemura", role: "Intern · Undergrad, University of Toronto", work: "Multilingual NLP.", since: "May–Aug 2025", from: "Japan", photo: "assets/people/kosei-uemura.jpg", links: { web: "https://mila.quebec/en/directory/kosei-uemura" } },
-      { name: "Tianyi Xu", role: "Intern · Undergrad, McGill", work: "Speech processing.", since: "Jan–Oct 2025", from: "China", photo: "assets/people/tianyi-xu.jpg", links: { web: "https://mila.quebec/en/directory/tianyi-xu-xu" } },
-      { name: "Vivek Verma", role: "Intern · MSc, Université de Montréal", work: "Multilingual modelling.", since: "Jan–Aug 2025", from: "Canada", photo: "assets/people/vivek-verma.jpg", links: { web: "https://mila.quebec/en/directory/vivek-verma" } },
+      { name: "Vivek Verma", role: "Intern · MSc, Université de Montréal", work: "Multilingual evaluation.", since: "Jan–Aug 2025", from: "Canada", photo: "assets/people/vivek-verma.jpg", links: { web: "https://mila.quebec/en/directory/vivek-verma" } },
       { name: "Jonah Dauvet", role: "Intern · Undergrad, McGill", work: "Language technology.", since: "Jan–Jun 2025", from: "France", links: { web: "https://mila.quebec/en/directory/jonah-dauvet" } },
       { name: "Sifan Liu", role: "Intern · Undergrad, McGill", work: "NLP evaluation.", since: "Jan–May 2025", links: { web: "https://mila.quebec/en/directory/sifan-liu" } },
-      { name: "Virginia Ceccatelli", role: "Intern · McGill, at Mila", work: "AI safety for speech.", since: "Jan–May 2026", from: "Italy", photo: "assets/people/virginia-ceccatelli.jpg" },
       { name: "Fabian David Schmidt", role: "Intern · PhD, University of Würzburg", work: "Multilingual & speech representation learning.", since: "Sep–Dec 2024", from: "Germany", links: { web: "https://fdschmidt93.github.io/" } },
     ],
   },
