@@ -171,6 +171,15 @@ const PEOPLE = [
     ],
   },
   {
+    id: "current-intern",
+    title: "Current Interns",
+    members: [
+      { name: "Yinhan Lu", role: "Intern · Undergrad, McGill", work: "NLP resources & evaluation.", since: "Sep–Dec 2025", from: "Japan", photo: "assets/people/yinhan-lu.jpg", links: { web: "https://mila.quebec/en/directory/yinhan-lu" } },
+      { name: "Tianyi Xu", role: "Intern · Undergrad, McGill", work: "Speech processing.", since: "Jan–Oct 2025", from: "Japan", photo: "assets/people/tianyi-xu.jpg", links: { web: "https://mila.quebec/en/directory/tianyi-xu-xu" } },
+    ],
+  },
+
+  {
     id: "interns-past",
     title: "Past Interns",
     members: [
