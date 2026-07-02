@@ -219,9 +219,10 @@ const ALUMNI = [
 
 /* Group photos, drop images in assets/photos/ and update src + caption + label */
 const GROUP_PHOTOS = [
-  { src: "assets/photos/IMG_8309.jpg", label: "2024", caption: "The first members of the group in 2024, when the lab was just getting started, at Mila in Montréal." },
-  { src: "assets/photos/IMG_5889.jpg", label: "2025", caption: "The growing team together at Mila, the Québec AI Institute, 2025." },
+  { src: "assets/photos/IMG_5889.jpg", label: "April 2026", caption: "The growing team together at Mila, the Québec AI Institute, 2026." },
   { src: "assets/photos/20251205_174904.jpg", label: "December 2025", caption: "Team dinner in Montréal, December 2025." },
+  { src: "assets/photos/IMG_8309.jpg", label: "September 2024", caption: "The first members of the group in 2024, when the lab was just getting started, at Mila in Montréal." },
+
 ];
 
 /* ---- Publications -------------------------------------------------------- *
@@ -232,7 +233,6 @@ const PUBLICATIONS = [
   {
     year: "2025",
     items: [
-      { t: "mSTEB: Massively Multilingual Evaluation of LLMs on Speech and Text Tasks", u: "https://arxiv.org/abs/2506.08400", a: "<strong>Luel Hagos Beyene</strong>, <strong>Vivek Verma</strong>, Min Ma, Jesujoba O. Alabi, <strong>Fabian David Schmidt</strong>, Joyce Nakatumba-Nabende, <strong>David Ifeoluwa Adelani</strong>", v: "ASRU, 2025" },
       { t: "mSTEB: Massively Multilingual Evaluation of LLMs on Speech and Text Tasks", u: "https://arxiv.org/abs/2506.08400", a: "<strong>Luel Hagos Beyene</strong>, <strong>Vivek Verma</strong>, Min Ma, Jesujoba O. Alabi, <strong>Fabian David Schmidt</strong>, Joyce Nakatumba-Nabende, <strong>David Ifeoluwa Adelani</strong>", v: "ASRU, 2025" },
       { t: "Fleurs-SLU: A Massively Multilingual Benchmark for Spoken Language Understanding", u: "https://arxiv.org/abs/2501.06117", a: "<strong>Fabian David Schmidt</strong>, Ivan Vulić, Goran Glavaš, <strong>David Ifeoluwa Adelani</strong>", v: "COLM, 2025" },
       { t: "The NaijaVoices Dataset: Cultivating Large-Scale, High-Quality, Culturally-Rich Speech Data for African Languages", u: "https://arxiv.org/abs/2505.20564", a: "Chris Emezue, NaijaVoices Community, Busayo Awobade, Abraham Owodunni, Handel Emezue, …, <strong>David Ifeoluwa Adelani</strong>, Chris Pal", v: "Interspeech, 2025" },
