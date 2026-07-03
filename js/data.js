@@ -181,7 +181,7 @@ const PEOPLE = [
       { name: "Jessica Wang", role: "Intern · Undergrad, McGill", work: "LLM post-training", since: "May–Aug 2026", from: "Canada", photo: "", links: { web: "https://mila.quebec/en/directory/jessica-wang" } },
       { name: "Luel Hagos Beyene", role: "Intern · PhD Student, NM-AIST & AIMS Rwanda", work: "Text-to-Speech", since: "May–Aug 2026", from: "Ethiopia", photo: "", links: { web: "https://mila.quebec/en/directory/luel-hagos-beyene" } },
       { name: "Yinhan Lu", role: "Intern · Undergrad, McGill", work: "Machine translation", since: "Sep 2025 – Aug 2026", from: "China", photo: "assets/people/yinhan-lu.jpg", links: { web: "https://mila.quebec/en/directory/yinhan-lu" } },
-      { name: "Tianyi Xu", role: "Intern · Undergrad, McGill", work: "Multilingual math reasoning.", since: "Jan–Oct 2025", from: "China", photo: "assets/people/tianyi-xu.jpg", links: { web: "https://mila.quebec/en/directory/tianyi-xu-xu" } },
+      { name: "Tianyi Xu", role: "Intern · Undergrad, McGill", work: "Multilingual math reasoning.", since: "Jan–Oct 2025", from: "Canada", photo: "assets/people/tianyi-xu.jpg", links: { web: "https://mila.quebec/en/directory/tianyi-xu-xu" } },
     ],
   },
 
