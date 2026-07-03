@@ -196,7 +196,7 @@ const PEOPLE = [
       { name: "Kosei Uemura", role: "Intern · Undergrad, University of Toronto", work: "Multilingual NLP.", since: "May–Aug 2025", from: "Japan", photo: "assets/people/kosei-uemura.jpg", links: { web: "https://mila.quebec/en/directory/kosei-uemura" } },
       { name: "Vivek Verma", role: "Intern · MSc, Université de Montréal", work: "Multilingual evaluation.", since: "Jan–Aug 2025", from: "Canada", photo: "assets/people/vivek-verma.jpg", links: { web: "https://mila.quebec/en/directory/vivek-verma" } },
       { name: "Jonah Dauvet", role: "Intern · Undergrad, McGill", work: "Language technology.", since: "Jan–Jun 2025", from: "France", links: { web: "https://mila.quebec/en/directory/jonah-dauvet" } },
-      { name: "Sifan Liu", role: "Intern · Undergrad, McGill", work: "NLP evaluation.", since: "Jan–May 2025", links: { web: "https://mila.quebec/en/directory/sifan-liu" } },
+      { name: "Sifan Liu", role: "Intern · Undergrad, McGill", work: "NLP evaluation.", since: "Jan–May 2025", from:"China", links: { web: "https://mila.quebec/en/directory/sifan-liu" } },
       { name: "Fabian David Schmidt", role: "Intern · PhD, University of Würzburg", work: "Multilingual & speech representation learning.", since: "Sep–Dec 2024", from: "Germany", links: { web: "https://fdschmidt93.github.io/" } },
     ],
   },
