@@ -334,11 +334,16 @@ const PUBLICATIONS = [
  * ------------------------------------------------------------------------- */
 const TALKS = [
   {
-    year: "2025",
+    year: "2026",
     items: [
       { date: "Jul 15, 2026", t: "AfriqueLLM: How Data Mixing and Model Architecture Impact Continued Pre-training for African Languages", u: "https://drive.google.com/file/d/1mosAMJt913tDxYBPN7YBzMY9AbFAze_m/view", v: "DSFSI & AfriDSA at University of Pretoria" },
-      { date: "Jul 14, 2026", t: "Benchmarking and Developing African-centric LLMs for challenging tasks", u: "https://drive.google.com/file/d/1lq6osx-4FfSuqsrNv67ktx9zShkBJt83/view", v: "Prof. Lee's Lab at OntarioTech " },
+      { date: "Jul 14, 2026", t: "Benchmarking and Developing African-centric LLMs for challenging tasks", u: "https://drive.google.com/file/d/1lq6osx-4FfSuqsrNv67ktx9zShkBJt83/view", v: "Prof. Lee's Lab at OntarioTech" },
       { date: "Jun 3, 2026", t: "Towards Multimodal and Multicultural LLMs for Low-Resource Languages", u: "https://drive.google.com/file/d/1WMEGY81aVooBUc49uAY-2P3ExzFsNCdf/view", v: "Multimodal Alignment for a Pluralistic Society at CVPR and CIFAR AICan 2026" },
+    ],
+  },
+  {
+    year: "2025",
+    items: [
       { date: "Oct 10, 2025", t: "Text quality Issues and their Impact on NLP for Low-Resource Languages", u: "https://drive.google.com/file/d/18-SRyHbjlbNXBVYytnJGWIgndNQg9eQ1/view", v: "WMDQS Workshop at COLM 2025" },
       { date: "Jul 29, 2025", t: "INJONGO: A Multicultural Intent Detection and Slot-filling Dataset for 16 African Languages", u: "https://drive.google.com/file/d/1O4g3iiBykRWCiCe8tFg5TofvushzVPTo/view", v: "ACL 2025, Vienna" },
       { date: "Jun 19, 2025", t: "Scaling Multilingual Evaluation of LLMs to Many Languages", u: "https://drive.google.com/file/d/1BX_UqMbwXpqA0fk5r1fjN6i9LILAMQ-l/view", v: "AICan 2025" },
