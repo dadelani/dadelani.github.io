@@ -336,6 +336,7 @@ const TALKS = [
   {
     year: "2026",
     items: [
+      { date: "Aug 3, 2026", t: "Lessons from the Trenches: Building African-Centric LLMs for African Languages", u: "https://drive.google.com/file/d/1AI5hzUjw7Auy6VFb01ZjbKAZbX175V8H/view?usp=sharing", v: "Invited Speaker, Deep Learning Indaba, Lagos, Nigeria" },
       { date: "Jul 15, 2026", t: "AfriqueLLM: How Data Mixing and Model Architecture Impact Continued Pre-training for African Languages", u: "https://drive.google.com/file/d/1mosAMJt913tDxYBPN7YBzMY9AbFAze_m/view", v: "DSFSI & AfriDSA at University of Pretoria" },
       { date: "Jul 14, 2026", t: "Benchmarking and Developing African-centric LLMs for challenging tasks", u: "https://drive.google.com/file/d/1lq6osx-4FfSuqsrNv67ktx9zShkBJt83/view", v: "Prof. Lee's Lab at OntarioTech" },
       { date: "Jun 3, 2026", t: "Towards Multimodal and Multicultural LLMs for Low-Resource Languages", u: "https://drive.google.com/file/d/1WMEGY81aVooBUc49uAY-2P3ExzFsNCdf/view", v: "Multimodal Alignment for a Pluralistic Society at CVPR and CIFAR AICan 2026" },
