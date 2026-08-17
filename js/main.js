@@ -38,7 +38,7 @@
   const COUNTRY_CODES = {
     Nigeria: "ng", Korea: "kr", "South Korea": "kr", China: "cn", Canada: "ca",
     Cameroon: "cm", Mexico: "mx", Ethiopia: "et", Japan: "jp", India: "in", Germany: "de",
-    Philippines: "ph", Benin: "bj", Italy:"it", Kenya:"ke",
+    Philippines: "ph", Benin: "bj", Italy:"it", Kenya:"ke", Ireland:"ie", Venezuela:"ve",
   };
   const flagHTML = (c) => {
     const code = COUNTRY_CODES[c];
