@@ -176,6 +176,7 @@ const PEOPLE = [
     id: "current-intern",
     title: "Current Interns",
     members: [
+      { name: "Tolúlọpẹ́ Ògúnrẹ̀mí", role: "Intern · PhD Student, Stanford", work: "Pure speech LMs", since: "July–Oct 2026", from: "Ireland", photo: "", links: { web: "https://mila.quebec/en/directory/tolulope-ogunremi" } },
       { name: "Tianyou Xie", role: "Intern · Undergrad, McGill", work: "Sentence embedding", since: "Jun–Aug 2026", from: "China", photo: "", links: { web: "https://mila.quebec/en/directory/tianyou-xie" } },
       { name: "Nicolas Helmeyer", role: "Intern · Undergrad, McGill", work: "Long-context BERT model", since: "Jun–Aug 2026", from: "Venezuela", photo: "", links: { web: "https://mila.quebec/en/directory/nicolas-helmeyer" } },
       { name: "Jessica Wang", role: "Intern · Undergrad, McGill", work: "LLM post-training", since: "May–Aug 2026", from: "Canada", photo: "", links: { web: "https://mila.quebec/en/directory/jessica-wang" } },
