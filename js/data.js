@@ -102,7 +102,10 @@ const PROJECTS = [
 
 /* News feed, newest first */
 const NEWS = [
+  { date: "2026", body: "6 papers accepted at <strong>EMNLP 2026 (main)</strong>: NaijaS2ST, TukaBench, AfriSUD, AfriScience-MT, AfriFact, and Shaping sentence embeddings with SVD" },
+  { date: "2026", body: "3 papers accepted at <strong>EMNLP 2026 (findings) </strong>: 	SpeechJBB, Multilinguality as Sense Adaptation, and LLM-as-a-Judge survey" },
   { date: "2026", body: "Honored to serve as Program Chair for <strong>ACL 2027</strong>: Kyoto, Japan" },
+  { date: "2026", body: "Best Social Impact Award at <strong>ACL 2026</strong>: Afri-MCQA." },
   { date: "2026", body: "2 papers accepted at <strong>ACL 2026</strong>: AfriqueLLM and Afri-MCQA." },
   { date: "Mar 2026", body: "We welcome <strong>Dr. Yejin Jeon</strong>, a new postdoc working on speech processing. 🎉" },
   { date: "2026", body: "2 papers accepted at <strong>LREC 2026</strong>: Uhura QA benchmarks and YoNER." },
